@@ -3,7 +3,7 @@
 
 Course Director: Matthew Engelhard
 
-Block | &nbsp Dates &nbsp | Topic | Readings & Quiz | Coding Assignment | Non-Coding Assignment
+Block | &nbsp; Dates &nbsp; | Topic | Readings & Quiz | Coding Assignment | Non-Coding Assignment
 --- | --- | --- | --- | --- | ---
 1 | May 29-30 | Intro to Healthcare DS | [Quiz 1](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md) | [CA1](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows.ipynb) |
 2 | June 12-13 | Medical Image Processing | [Quiz 2](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md) | [CA2](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb) |
