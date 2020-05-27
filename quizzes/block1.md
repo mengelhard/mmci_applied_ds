@@ -22,10 +22,10 @@
   - True
   - False
 5. The following strategies can be used to protect against model overfitting, except:
-  - Testing on independent validation sets
-  - Testing on data from different populations or time periods
-  - Penalizing non-zero parameters when learning a model
-  - Ensuring that models are complex enough to represent the data
+  - Evaluating performance on data not used during training
+  - Evaluating performance on data from different populations or time periods
+  - Penalizing model parameters to prevent them from becoming too large
+  - Creating models with as many features (i.e. covariates) and parameters as possible
   - All of the above are valid
 
 *from Chen and Asch*
@@ -39,14 +39,14 @@
   - Patients may not be representative of the broader population (i.e. participation bias).
   - Patterns of treatment and care may reflect socioeconomic or racial/ethnic disparities.
   - Non-random patterns of missing data may be present.
-  - Models may not generalize well to different systems, populations, or settings.
+  - Data collection practices may differ between systems and/or change over time.
   - All of the above are valid.
 
 8. When training a model with historical data, including more years of data always leads to better performance.
   - True
   - False
 
-9. Which of the following best describes the authors' attitude toward forecasting (i.e. predicting the future) via machine learning:
+9. Which of the following best describes the authors' attitude toward forecasting (i.e. predicting future values) via machine learning:
   - Forecasting is imprecise but can be useful, for example to establish a prognosis or stratify patients by risk.
   - Forecasting has little to no practical value due to the short "half-life" of clinical data.
 
