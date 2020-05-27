@@ -8,7 +8,7 @@
 
 [Final Project](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
 
-Course readings may be accessed in the Resources folder in [Sakai](http://www.sakai.duke.edu).
+Course readings may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu).
 
 ## Schedule
 
