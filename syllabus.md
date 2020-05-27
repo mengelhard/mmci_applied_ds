@@ -1,4 +1,5 @@
 # Syllabus: Applied Data Science 2020
+[Course Website](https://github.com/mengelhard/mmci_applied_ds)
 
 ## Course Objective
 To provide students with an understanding of the capabilities and limitations of healthcare data science sufficient to (a) design and manage research projects in this area, (b) collaborate and communicate effectively with data scientists and data science researchers, and (c) critically evaluate data science methodology, with an emphasis on model validation. Students will be exposed to the material through lectures, hands-on group exercises, written exercises drawing from the scientific literature, and a final project in data science research design.
