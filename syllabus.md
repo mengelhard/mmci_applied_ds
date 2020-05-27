@@ -31,7 +31,9 @@ Class attendance is mandatory. Attendance will be taken at every class. If you m
 - Four or more missed classes will result in zero grade. Class discussion is an essential element of this course. We will have written cases to discuss as well as time to review some of the major learning from team homework assignments.
 
 ## Grading
+
 Item | Due Date | Percentage
+--- | --- | ---
 Written Exercises from Scientific Readings (individual grade) | Biweekly | 35%
 Computational Exercises (group grade) | In Class | 15%
 Final Design Project (group grade) | 11:59pm on August 7, 2020 | 30%

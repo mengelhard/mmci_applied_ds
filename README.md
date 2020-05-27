@@ -1,10 +1,13 @@
 # Applied Data Science 2020
 *Master of Management in Clinical Informatics (MMCi) Program*
+
 **Course Director:** Matthew Engelhard
 
 ## Course Documents
 [Syllabus](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)
+
 [Final Project](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
+
 Course readings may be accessed in the Resources folder in Sakai.
 
 ## Schedule
