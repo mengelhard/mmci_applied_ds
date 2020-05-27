@@ -33,7 +33,7 @@ Class attendance is mandatory. Attendance will be taken at every class. If you m
 ## Grading
 
 Item | In Groups? | Due Date | Percentage
---- | --- | ---
+--- | --- | --- | ---
 Readings and Quizzes | No | Biweekly | 35%
 Computational Exercises | Yes | In Class | 15%
 Final Design Project | Yes | 11:59pm on August 7, 2020 | 30%
