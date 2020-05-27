@@ -1,7 +1,5 @@
 # Applied Data Science, Block 2
 
-*June 7-8, 2019*
-
 ---
 
 ### Reading Questions
@@ -51,7 +49,6 @@
   - both of the above
 
 ### Discussion Questions
-*To be discussed following lecture 2 on Friday, June 7, 2019*
 
 From the previous block, but not yet discussed:
 

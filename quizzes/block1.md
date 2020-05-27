@@ -1,7 +1,5 @@
 # Applied Data Science, Block 1
 
-*May 24-25, 2019*
-
 ---
 
 ### Reading Questions
@@ -57,7 +55,6 @@
   - False
 
 ### Discussion Questions
-*To be discussed following lecture 2 on Friday, May 24, 2019*
 
 1. Chen and Asch say that algorithm performance should be compared to "real-world standards of care" rather than "an idealized and unrealizable standard of perfection". Yet in practice, we're often less willing to tolerate errors made by technology than those made by humans. What benchmark should a machine learning model exceed before it's used in clinical decision-making, e.g. performance of the average expert, the best expert, or something else?
 2. When developing a predictive model, machine learning practitioners often use whatever data is available rather than a curated set of predictors. The article by Rajkomer et al. provides an excellent example of this. What are the dangers of using *all* the data, and do they outweigh its advantages?

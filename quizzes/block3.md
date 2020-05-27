@@ -1,7 +1,5 @@
 # Applied Data Science, Block 3
 
-*June 21-22, 2019*
-
 ---
 
 ### Reading Questions

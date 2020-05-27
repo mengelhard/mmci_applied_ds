@@ -1,7 +1,5 @@
 # Applied Data Science, Block 4
 
-*July 19-20, 2019*
-
 ---
 
 ### Reading Questions
