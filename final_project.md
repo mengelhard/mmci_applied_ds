@@ -20,3 +20,5 @@ Describe the steps that would be taken to carry out your project, including the 
 ## Presentation (15 minutes):
 Each group will give a 15-minute presentation followed by 5 minutes of Q&A on the last day of class. The presentation should include approximately 5 minutes of background, a brief description of objectives, and approximately 10 minutes describing the approach, with emphasis on model development and evaluation. 
 
+## Grading:
+The grading scheme may be found [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md).
