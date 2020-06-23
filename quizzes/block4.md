@@ -14,7 +14,7 @@
   - values are rarely missing, and patterns of missingness, although not random, are not informative or correlated with outcomes such as mortality
   - values are frequently missing, and patterns of missingness are correlated with mortality and other outcomes
 3. Which of the following imputation strategies is *not* used by the authors (and not advisable)?
-  - fill in missing values with zeros
+  - fill in missing values with the maximum value found in the training set
   - fill in missing values with the last observed measurement of that type
   - fill in missing values with a predictive model trained on observed values
 4. When used in combination with a non-RNN model, more sophisticated imputation strategies (e.g. MICE and MissForest) performed better than simple strategies (e.g. Mean, Forward, Simple).
@@ -40,7 +40,7 @@
 8. The benefit of the RNN was greater for the longer, 18-month observation window.
   - True
   - False
-9. The output of each block of a gated recurrent unit (GRU) depends only on the current input and the previous N inputs, where N is typically very small (i.e. <5).
+9. The output of each block of a gated recurrent unit (GRU) depends only on the current input and the previous 2 inputs.
   - True
   - False
 10. Using medical concept vectors (rather than one-hot encoding) improved performance, but also substantially increased the training time of the recurrent neural network model.

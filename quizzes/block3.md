@@ -38,16 +38,15 @@
 7. In term frequency-inverse document frequency weighting, the score for each word in a text sample is (a) directly proportional to the number of times it appears in that sample, and (b) inversely proportional to the number of samples in which it appears.
   - True
   - False
-8. Which of the following models would *not* be effective for classifying text in which negated references (e.g. *patient denies bleeding*) were important?
-  - a support vector machine applied to bag of 1-gram features
-  - a recurrent neural network applied to sequences of word vectors
-  - logistic regression applied to bag of 1-, 2-, and 3-gram features
-9. What is the most likely explanation for the drop in CNN performance between the training and test sets?
-  - systematic differences between test and training sets
-  - limited model capacity
+8. Which of the following approaches would be *least* effective for classifying text in which negated references (e.g. *patient denies bleeding*) were important?
+  - count individual words, then apply logistic regression to the word counts
+  - convert words to vectors, then apply a recurrent neural network to the resulting sequences of word vectors
+  - count individual words as well as 2- and 3-word phrases, then apply logistic regression to the word/phrase counts
+9. What is the *most likely* explanation for the drop in CNN performance between the training and test sets?
+  - the model is not complex enough to capture meaningful patterns in the training data
   - researcher error
   - overfitting
-10. When bleeding-absent notes are much more common than bleeding-present notes, the model can perform well by always predicting that bleeding is absent. To counteract this effect, the authors equalize the number of bleeding-present and bleeding-absent notes in the training set. Which of the following alternative strategies would *not* achieve a similar effect?
+10. When bleeding-absent notes are much more common than bleeding-present notes, the model can perform well by always predicting that bleeding is absent. To counteract this effect, the authors select equal numbers of bleeding-present and bleeding-absent notes during training. Which of the following alternative strategies would *not* achieve a similar effect?
   - penalizing misclassification of bleeding-present notes more heavily by weighting the loss function
-  - augmenting the dataset by acquiring additional bleeding-present notes
-  - raising the classification threshold on the score associated with bleeding events
+  - collecting additional bleeding-present notes until the number of bleeding-present and bleeding-absent notes is equal in the dataset
+  - using early stopping to mitigate overfitting to the training set
