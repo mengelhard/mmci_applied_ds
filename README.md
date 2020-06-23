@@ -13,7 +13,7 @@ Course readings may be accessed in the Resources folder in [Sakai](https://sakai
 ## Schedule
 
 Block | Dates | Topic | Readings & Quiz | Computational Exercise
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | ---
 1 | May 29-30 | Intro to Healthcare DS | [Quiz 1](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md) | [CE1: Coding](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows.ipynb); [CE1: Non-Coding](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
 2 | June 12-13 | Medical Image Processing | [Quiz 2](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md) | [CE2](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
 3 | June 26-27 | Medical Data and Image Analysis | None | None
