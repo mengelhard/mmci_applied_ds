@@ -4,7 +4,7 @@
 
 ### Reading Questions
 
-*from Che et al., 2018*
+*from [Che et al., 2018](https://www.nature.com/articles/s41598-018-24271-9)*
 
 1. Imputation is the process of filling in missing values in a dataset.
   - True
@@ -26,7 +26,7 @@
   - the default value is the empirical mean of all measurements of that type
   - the rate of transition from the last observed value to the default value should be the same for all measurement types
 
-*from Choi et al., 2016*
+*from [Choi et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/)*
 
 6. Which of the following correctly describes how the authors converted events from the EHR into feature vectors?
   - events were encoded as one-hot vectors, where each element of the vector represents a distinct event type

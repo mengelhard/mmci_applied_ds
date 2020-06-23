@@ -4,7 +4,7 @@
 
 ### Reading Questions
 
-*from Hirschberg and Manning, 2015*
+*from [Hirschberg and Manning, 2015](https://science.sciencemag.org/content/349/6245/261)*
 
 1. Which of the following natural language processing (NLP) tasks is *not* discussed by the authors?
   - translating between languages
@@ -27,7 +27,7 @@
   - models that recognize short phrases in addition to individual words
   - all of the above
 
-*from Taggart et al., 2018*
+*from [Taggart et al., 2018](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706498)*
 
 6. Which of the following approaches was *not* used by the authors to identify bleeding events?
   - a support vector machine applied to bag of 1-, 2-, and 3-gram features (i.e. based on counts of 1-, 2-, and 3-word phrases)
