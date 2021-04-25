@@ -8,6 +8,8 @@
 
 [Final Project](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
 
+[Final Project Grading](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md)
+
 Course readings may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu).
 
 ## Schedule
