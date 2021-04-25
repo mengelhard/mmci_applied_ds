@@ -3,8 +3,7 @@
 
 **Course Director:** Matthew Engelhard
 
-## Course Documents
-[Syllabus](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)
+**[Please review the syllabus by clicking here.](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)**
 
 ## Final Project
 - [Instructions may be found here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
