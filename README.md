@@ -6,8 +6,13 @@
 ## Course Materials
 
 - **[Please review the syllabus by clicking here](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)**
-- **Course readings** may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu)
 - Materials for each course weekend (i.e. block) are linked under *Schedule* below
+- **Quizzes**
+--- There will be a quiz due before course blocks 1, 2, 4, and 5.
+--- Each quiz (see *Schedule*) links to two articles that should be read before taking it.
+--- All articles are also available as .pdf in the Resources folder in [Sakai](https://sakai.duke.edu).
+--- Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
+--- Quizzes are pass/fail. To pass, you must answer all questions correctly. However, there is no limit to the number of times the quizzes may be taken.
 
 ## Final Project
 - [Project Instructions](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
