@@ -30,5 +30,5 @@ Block | Topic | Lectures | Due Before Next Block
 2 | Medical Image Processing | | - Final Project Proposal<br>- [Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
 3 | Medical Data and Image Analysis | | - [Quiz 3](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block3.md)
 4 | Natural Language Processing | | - [Quiz 4](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block4.md)<br>- [Pubmed Abstract Classification](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block3_abstract_classification.ipynb)
-5 | Time Series and Unsupervised Learning | | - Final Project Report<br>-> Final Project Slides<br>- [Beyond Supervised Learning](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block4_beyond_supervised_learning.ipynb)
+5 | Time Series and Unsupervised Learning | | - Final Project Report<br>- Final Project Slides<br>- [Beyond Supervised Learning](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block4_beyond_supervised_learning.ipynb)
 6 | Course Projects | Final Project Presentations | None
