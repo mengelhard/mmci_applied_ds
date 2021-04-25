@@ -5,7 +5,7 @@
 
 ## Course Materials
 
-### [Please review the syllabus by clicking here](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)
+- **[Please review the syllabus by clicking here](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)**
 - Materials for each course weekend (*i.e.,* block) are linked under *Schedule* below
 
 ### Quizzes
