@@ -17,8 +17,7 @@
 
 ### Final Project
 - Project instructions are [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md), and the grading scheme is [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md).
-- Project proposals are due before class on weekend/block 3.
-- Project are due before class on weekend/block 6.
+- **Proposals are due** before class on weekend/block 3, and the **project is due** before class on weekend/block 6.
 
 ## Course Schedule
 
