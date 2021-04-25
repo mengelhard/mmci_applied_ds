@@ -25,7 +25,7 @@
 
 Block | Topic | Lectures | Due Before Next Block
 --- | --- | --- | ---
-0 | Preliminaries | None | - [Quiz 1](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md)
+0 | Preliminaries | None | - Review Course Site and Materials<br>- [Quiz 1](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md)
 1 | Intro to Healthcare DS | | - [Quiz 2](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
 2 | Medical Image Processing | | - Final Project Proposal<br>- [Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
 3 | Medical Data and Image Analysis | | - [Quiz 3](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block3.md)
