@@ -42,6 +42,9 @@ Class Participation | No | Term | 20%
 
 All assignments will be submitted through Sakai.
 
+## Diversity and Inclusion Statement
+The MMCi Program is designed to produce the next generation of clinical informatics leaders grounded in sound ethical and scientific principles. Central among these are principles of diversity and inclusion, which will enhance our students' ability to improve human health effectively and equitably. We affirm principles of diversity and inclusion put forth by the Duke University School of Medicine and Department of Biostatistics & Bioinformatics, and we are committed to proactively fostering an inclusive environment in which diverse perspectives and backgrounds are welcome and thrive. Diverse perspectives and backgrounds are particularly critical in machine learning to ensure that decision-making algorithms are used ethically, free from bias, and reduce rather than promote disparities and inequities. We are always looking for ways to make course content more inclusive, and encourage students with recommendations or concerns related to diversity and inclusion in the course content to contact the course director.
+
 ## Tardiness
 It is an expectation that everyone will be on time to class. If you are tardy for 2 or more classes without prior approval from faculty, this will also reflect in your discussion grade.
 
