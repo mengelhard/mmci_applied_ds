@@ -12,7 +12,7 @@ Course readings may be accessed in the Resources folder in [Sakai](https://sakai
 
 ## Schedule
 
-Weekend | Topic | Lectures | Readings & Quiz | Assignment
+Block | Topic | Lectures | Readings & Quiz | Assignment
 --- | --- | --- | --- | ---
 1 | Intro to Healthcare DS | | [Quiz 1](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md) | [Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
 2 | Medical Image Processing | | [Quiz 2](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md) | [Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
