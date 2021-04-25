@@ -1,4 +1,4 @@
-# Applied Data Science 2020
+# Applied Data Science
 *Master of Management in Clinical Informatics (MMCi) Program*
 
 **Course Director:** Matthew Engelhard
@@ -6,11 +6,13 @@
 ## Course Documents
 [Syllabus](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)
 
-[Final Project Instructions](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
+## Final Project
+- [Instructions may be found here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
+- Your project proposal will be due by the beginning of the third course weekend (i.e. Block 3).
+- The project will be due by the beginning of the final course weekend (i.e. Block 6).
+- [Grading details may be found here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md)
 
-[Final Project Grading](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md)
-
-Course readings may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu).
+**Course readings** may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu).
 
 ## Schedule
 
