@@ -5,6 +5,7 @@
 ### Reading Questions
 
 *from Hinton 2018*
+<https://jamanetwork.com/journals/jama/fullarticle/2701666>
 
 1. Which of the following correctly describes how the number of features (i.e. variables) in a predictive model relates to the number of possible multiway interaction terms?
   - The number of possible interaction terms is given by 2*M, where M is the number of features, i.e. it increases linearly with M.
@@ -25,6 +26,7 @@
   - Neural networks have multiple valid ways of modeling a given dataset, therefore the final parameter values of the network should not be over-interpreted.
 
 *from Esteva et al. 2017*
+<https://www.nature.com/articles/nature21056>
 
 6. Which of the following best describes how Inception v3, a convolutional neural network, was trained to detect skin cancer?
   - Inception v3 was trained from scratch (i.e. random parameter values) using labeled images of skin lesions.
