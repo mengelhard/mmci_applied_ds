@@ -21,7 +21,7 @@
 - **Proposal Due Date:** before class on the third course weekend
 - **Project Due Date:** before class on the final course weekend
 
-## Schedule
+## Course Schedule
 
 Block | Topic | Lectures | Readings & Quiz | Assignment
 --- | --- | --- | --- | ---
