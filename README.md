@@ -16,10 +16,8 @@
 - Quizzes are pass/fail. To pass, you must answer all questions correctly. However, there is no limit to the number of times the quizzes may be taken.
 
 ### Final Project
-- [Project Instructions](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
-- [Grading Details](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md)
-- **Proposal Due Date:** before class on the third course weekend
-- **Project Due Date:** before class on the final course weekend
+- Project instructions are [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md), and the grading scheme is [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md).
+- Project proposals are before class on the third course weekend, and the project itself will be due before class on the final course weekend.
 
 ## Course Schedule
 
