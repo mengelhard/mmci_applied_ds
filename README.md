@@ -19,6 +19,7 @@
 - whatever
 
 ### Final Project
+- The course will culminate in a final design project in which you propose a data science research project related to a clinical topic of your choosing.
 - Project instructions are [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md), and the grading scheme is [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md).
 - **Proposals are due** before class on weekend/block 3, and the **project is due** before class on weekend/block 6.
 
