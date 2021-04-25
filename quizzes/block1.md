@@ -4,8 +4,7 @@
 
 ### Reading Questions
 
-*from Obermeyer and Emanuel*
-<https://www.nejm.org/doi/full/10.1056/NEJMp1606181>
+*from [Obermeyer and Emanuel](https://www.nejm.org/doi/full/10.1056/NEJMp1606181)
 
 1. The authors are optimistic about the impact machine learning will have on clinical medicine.
   - True
@@ -28,8 +27,7 @@
   - Creating models with as many features (i.e. covariates) and parameters as possible
   - All of the above are valid
 
-*from Chen and Asch*
-<https://www.nejm.org/doi/full/10.1056/NEJMp1702071>
+*from [Chen and Asch](https://www.nejm.org/doi/full/10.1056/NEJMp1702071)
 
 6. Predictive models are new in medicine, brought on by recent advances in machine learning.
   - True
