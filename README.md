@@ -5,8 +5,8 @@
 
 ## Course Overview
 
-- **[Please review the syllabus by clicking here.](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)**
-- **Course readings** may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu).
+- **[Please review the syllabus by clicking here](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)**
+- **Course readings** may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu)
 - **All other materials may be found below**
 
 ## Final Project
