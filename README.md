@@ -23,7 +23,7 @@
 
 ## Course Schedule
 
-Block | Topic | Lectures | Due Before Class
+Block | Topic | Lectures | Due *Before* Class
 --- | --- | --- | ---
 1 | Intro to Healthcare DS | | <ul><li>[Quiz 1](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md)</li></ul>
 2 | Medical Image Processing | | <ul><li>[Quiz 2](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)</li><li>[Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)</li></ul>
