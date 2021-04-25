@@ -7,7 +7,7 @@
 
 - **[Please review the syllabus by clicking here](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)**
 - **Course readings** may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu)
-- **Materials for each course weekend (i.e. block) are linked under *Schedule* below**
+- Materials for each course weekend (i.e. block) are linked under *Schedule* below
 
 ## Final Project
 - [Project Instructions](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
