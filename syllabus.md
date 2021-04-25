@@ -35,9 +35,9 @@ Class attendance is mandatory. Attendance will be taken at every class. If you m
 
 Item | In Groups? | Due Date | Percentage
 --- | --- | --- | ---
-Readings and Quizzes | No | Biweekly | 35%
-Computational Exercises | Yes | In Class | 15%
-Final Design Project | Yes | 11:59pm on August 7, 2020 | 30%
+Readings and Quizzes | No | Before Blocks 1, 2, 4, and 5 | 25%
+Computational Exercises | Yes | Before Blocks  | 20%
+Final Design Project | Yes | Before Block 6 | 35%
 Class Participation | No | Term | 20%
 
 All assignments will be submitted through Sakai.
