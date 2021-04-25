@@ -3,15 +3,17 @@
 
 **Course Director:** Matthew Engelhard
 
+## Course Overview
+
 **[Please review the syllabus by clicking here.](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)**
+**Course readings** may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu).
+**All other materials may be found below**
 
 ## Final Project
-- [Instructions may be found here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
-- Your project proposal will be due by the beginning of the third course weekend (i.e. Block 3).
-- The project will be due by the beginning of the final course weekend (i.e. Block 6).
-- [Grading details may be found here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md)
-
-**Course readings** may be accessed in the Resources folder in [Sakai](https://sakai.duke.edu).
+- [Project Instructions](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md)
+- [Grading Details](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project_grading.md)
+- **Proposal Due Date:** before class on the third course weekend
+- **Project Due Date:** before class on the final course weekend
 
 ## Schedule
 
