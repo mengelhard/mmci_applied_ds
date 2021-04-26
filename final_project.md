@@ -1,5 +1,5 @@
 # Applied Data Science Final Project
-**Due Dates**
+### Due Dates
 - *Proposal:* 7:59am ET on the first day of the third course weekend
 - *Report and Presentation:* 7:59am on the first day of the final course weekend
 
