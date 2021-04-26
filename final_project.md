@@ -7,9 +7,9 @@ Report & Slides | Friday at 7:59am ET, start of Block 6
 
 ## Team Assignment: 
 Propose a data science research project related to a clinical topic of your choosing. Your project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will be:
-- (a) an initial project proposal, which must be approved by the instructor
-- (b) a final report, formatted as a brief research proposal/grant; and
-- (c) a short (15-minute) presentation.
+1. an initial project proposal, which must be approved by the instructor
+2. (b) a final report, formatted as a brief research proposal/grant; and
+3. (c) a short (15-minute) presentation.
 
 ## Background and Significance (1 page): 
 Describe the clinical problem, its importance, and the need for the data science approach you are proposing. This should include a brief literature review (>10 scientific articles) establishing the significance of the problem and describing relevant methods, including any statistical or machine learning models that have been applied previously. What recent innovations or developments have made this approach possible? These might relate to new data resources, new data science techniques, or new clinical insights.
