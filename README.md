@@ -17,7 +17,7 @@
 
 ### Computational Assignments
 - There will be four computational assignments due before blocks 2, 3, 5, and 6.
-- Each assignment presents code along with the corresponding output, and will ask you to interpret the output based on principles learned in class.
+- Each assignment will present code + output and ask you to interpret what you see based on principles from class.
 - Assignments can be viewed in your web browser, and **you will not need to code** to complete them.
 - If you *do* have coding experience, however, you are encouraged to explore further on your own by modifying the code.
 - For those who want to explore further, we recommend either [installing Anaconda](https://www.anaconda.com/products/individual#Downloads) or working in [Google Colab](colab.research.google.com).
