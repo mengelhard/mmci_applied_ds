@@ -11,14 +11,14 @@ Propose a data science research project related to a clinical topic of your choo
 2. a final report, formatted as a brief research proposal/grant; and
 3. a short (15-minute) presentation.
 
-## Project Proposal (1 page):
+## Proposal (1 page):
 Prepare a brief, informal document with the following elements:
 - a brief description of the clinical problem you would like to address
 - why you believe a data science approach is appropriate
 - possible data sources for model development; note that you *can* propose new data collection
 - initial thoughts on model development
 
-## Final Report (>3 pages, single-spaced):
+## Report (>3 pages, single-spaced):
 Prepare a formal document, formatted as a brief research proposal/grant, that includes the following elements:
 
 ### Background and Significance (1 page): 
