@@ -1,11 +1,12 @@
 # Applied Data Science Final Project
-*Due August 7, 2020 at 11:59pm*
+*Proposal due at 7:59am ET on the first day of the third course weekend*<br>
+*Report and presentation due at 7:59am on the first day of the final course weekend*
 
 ## Team Assignment: 
-Propose a data science research project related to a clinical topic of your choosing. Your project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning).
+Propose a data science research project related to a clinical topic of your choosing. Your project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will include an initial project proposal, which must be approved by the instructor; a final report, formatted as a brief research proposal/grant; and a short (15-minute) presentation.
 
 ## Background and Significance (1 page): 
-Describe the clinical problem, its importance, and the need for the data science approach you are proposing. This should include a brief literature review identifying prior statistical models, if they exist. What recent innovations or developments have made this approach possible? These might relate to new data resources, new data science techniques, or new clinical insights.
+Describe the clinical problem, its importance, and the need for the data science approach you are proposing. This should include a brief literature review (>10 scientific articles) establishing the significance of the problem and identifying prior statistical models, if they exist. What recent innovations or developments have made this approach possible? These might relate to new data resources, new data science techniques, or new clinical insights.
 
 ## Objective(s) (<.5 pages):
 Briefly describe the objectives of your project. If you are developing a predictive model, this should include the type of model, its inputs and outputs, performance metrics, and a hypothesis (or hypotheses) to be evaluated.
