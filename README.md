@@ -15,7 +15,7 @@
 - Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
 - Quizzes are pass/fail. You must answer *all* questions correctly to pass, but you may retry an unlimited number of times.
 
-### Computational Assignments
+### Computational Assignments (CAs)
 - There will be four computational assignments due before blocks 2, 3, 5, and 6.
 - Each assignment will present code + output and ask you to interpret what you see based on principles from class.
 - **You will not need to code** to complete the assignments, which can be viewed in any web browser.
@@ -32,9 +32,9 @@
 Block | Topic | Lectures | Due Before Next Block
 --- | --- | --- | ---
 0 | Preliminaries | None | - Review Course Site and Materials<br>- [Quiz 1: Machine Learning for Health](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md)
-1 | Intro to Healthcare DS | | - [Quiz 2: Medical Image Analysis](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [Assignment 1: Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
-2 | Medical Image Processing | | - Final Project Proposal<br>- [Assignment 2: Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
+1 | Intro to Healthcare DS | | - [Quiz 2: Medical Image Analysis](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [CA1: Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
+2 | Medical Image Processing | | - Final Project Proposal<br>- [CA2: Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
 3 | Medical Data and Image Analysis | | - [Quiz 3: NLP for Clinical Text](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block3.md)
-4 | Natural Language Processing | | - [Quiz 4: Clinical Time Series](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block4.md)<br>- [Assignment 3: Pubmed Abstract Classification](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block3_abstract_classification.ipynb)
-5 | Time Series and Unsupervised Learning | | - Final Project Report<br>- Final Project Slides<br>- [Assignment 4: Beyond Supervised Learning](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block4_beyond_supervised_learning.ipynb)
+4 | Natural Language Processing | | - [Quiz 4: Clinical Time Series](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block4.md)<br>- [CA3: Pubmed Abstract Classification](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block3_abstract_classification.ipynb)
+5 | Time Series and Unsupervised Learning | | - Final Project Report<br>- Final Project Slides<br>- [CA4: Beyond Supervised Learning](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block4_beyond_supervised_learning.ipynb)
 6 | Course Projects | Final Project Presentations | None
