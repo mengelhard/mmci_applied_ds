@@ -38,8 +38,8 @@ Item | In Groups? | Due Date | Percentage
 Readings and Quizzes | No | Before Blocks 1, 2, 4, and 5 | 25%
 Computational Exercises | Yes | Before Blocks 2, 3, 5, and 6 | 20%
 Final Project Proposal | Yes | Before Block 3 | 5%
-Final Project Report | Yes | Before Block 6 | 20%
-Final Project Presentation | Yes | Before Block 6 | 10%
+Final Project Report | Yes | Before Block 6 | 18%
+Final Project Presentation | Yes | Before Block 6 | 12%
 Class Participation | No | Term | 20%
 
 All assignments will be submitted through Sakai.
