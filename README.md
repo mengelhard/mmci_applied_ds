@@ -32,9 +32,9 @@
 Block | Topic | Lectures | Due Before Next Block
 --- | --- | --- | ---
 0 | Preliminaries | None | - Review Course Site and Materials<br>- [Quiz 1: Machine Learning for Health](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md)
-1 | Intro to Healthcare DS | | - [Quiz 2: Medical Image Analysis](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [CA1: Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
-2 | Medical Image Processing | | - Final Project Proposal<br>- [CA2: Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
+1 | Intro to Healthcare DS | | - [Quiz 2: Medical Image Analysis](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [CA 1: Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
+2 | Medical Image Processing | | - Final Project Proposal<br>- [CA 2: Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
 3 | Medical Data and Image Analysis | | - [Quiz 3: NLP for Clinical Text](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block3.md)
-4 | Natural Language Processing | | - [Quiz 4: Clinical Time Series](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block4.md)<br>- [CA3: Pubmed Abstract Classification](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block3_abstract_classification.ipynb)
-5 | Time Series and Unsupervised Learning | | - Final Project Report<br>- Final Project Slides<br>- [CA4: Beyond Supervised Learning](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block4_beyond_supervised_learning.ipynb)
+4 | Natural Language Processing | | - [Quiz 4: Clinical Time Series](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block4.md)<br>- [CA 3: Pubmed Abstract Classification](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block3_abstract_classification.ipynb)
+5 | Time Series and Unsupervised Learning | | - Final Project Report<br>- Final Project Slides<br>- [CA 4: Beyond Supervised Learning](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block4_beyond_supervised_learning.ipynb)
 6 | Course Projects | Final Project Presentations | None
