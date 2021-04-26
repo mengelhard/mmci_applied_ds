@@ -13,12 +13,12 @@
 - Each quiz (see *Schedule*) links to two articles that should be read before taking it.
 - All articles are also available as .pdf in the *Resources* section of [Sakai](https://sakai.duke.edu).
 - Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
-- Quizzes are pass/fail. To pass, you must answer all questions correctly. However, there is no limit to the number of times the quizzes may be taken.
+- Quizzes are pass/fail. You must answer *all* questions correctly to pass, but you may retry an unlimited number of times.
 
 ### Computational Assignments
 - There will be four computational assignments due before blocks 2, 3, 5, and 6.
 - Each assignment will present code + output and ask you to interpret what you see based on principles from class.
-- **You will not need to code** to complete the assignments. They can be viewed in any web browser.
+- **You will not need to code** to complete the assignments, which can be viewed in any web browser.
 - If you *do* have coding experience, you are encouraged to explore further by modifying the code. We recommend either [installing Anaconda](https://www.anaconda.com/products/individual#Downloads) or working in [Google Colab](colab.research.google.com).
 - Recommended Python resources include [Duke Library tutorials](https://library.duke.edu/data/tutorials), the [Python Crash Course book](https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B07J4521M3/ref=sr_1_1_sspa?dchild=1&keywords=Python+book&qid=1618331896&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSVNYTDhDUExZQktDJmVuY3J5cHRlZElkPUEwODgwNjQwM0RNT0U2Nk9XTDdDQiZlbmNyeXB0ZWRBZElkPUEwOTg4NjEyODc5U0ZROVNEQkZEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), and [Google Python class](https://developers.google.com/edu/python/).
 
