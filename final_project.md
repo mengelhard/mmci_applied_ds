@@ -1,7 +1,9 @@
 # Applied Data Science Final Project
-### Due Dates
-- *Proposal:*        7:59am ET on the first day of the third course weekend
-- *Report & Slides:* 7:59am ET on the first day of the final course weekend
+
+Part | Due
+--- | ---
+Proposal | 7:59am ET on the first day of the third course weekend
+Report & Slides | 7:59am ET on the first day of the final course weekend
 
 ## Team Assignment: 
 Propose a data science research project related to a clinical topic of your choosing. Your project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will include an initial project proposal, which must be approved by the instructor; a final report, formatted as a brief research proposal/grant; and a short (15-minute) presentation.
