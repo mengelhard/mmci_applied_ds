@@ -16,7 +16,7 @@ Prepare a brief, informal document with the following elements:
 - a brief description of the clinical problem you would like to address
 - why you believe a data science approach is appropriate
 - possible data sources for model development; note that you *can* propose new data collection
-- initial thoughts on model development
+- initial thoughts on which statistical / machine learning modeling approaches are most appropriate
 
 ## Report (>3 pages, single-spaced):
 Prepare a formal document, formatted as a brief research proposal/grant, that includes the following elements:
