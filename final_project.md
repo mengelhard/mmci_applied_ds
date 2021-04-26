@@ -8,16 +8,26 @@ Report & Slides | Friday at 7:59am ET, start of Block 6
 ## Team Assignment: 
 Propose a data science research project related to a clinical topic of your choosing. Your project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will be:
 1. an initial project proposal, which must be approved by the instructor
-2. (b) a final report, formatted as a brief research proposal/grant; and
-3. (c) a short (15-minute) presentation.
+2. a final report, formatted as a brief research proposal/grant; and
+3. a short (15-minute) presentation.
 
-## Background and Significance (1 page): 
+## Project Proposal (1 page):
+Prepare a brief, informal document with the following elements:
+- a brief description of the clinical problem you would like to address
+- why you believe a data science approach is appropriate
+- possible data sources for model development; note that you *can* propose new data collection
+- initial thoughts on model development
+
+## Final Report (>3 pages, single-spaced):
+Prepare a formal document, formatted as a brief research proposal/grant, that includes the following elements:
+
+### Background and Significance (1 page): 
 Describe the clinical problem, its importance, and the need for the data science approach you are proposing. This should include a brief literature review (>10 scientific articles) establishing the significance of the problem and describing relevant methods, including any statistical or machine learning models that have been applied previously. What recent innovations or developments have made this approach possible? These might relate to new data resources, new data science techniques, or new clinical insights.
 
-## Objective(s) (<.5 pages):
+### Objective(s) (<.5 pages):
 Concisely state 2-4 objectives/aims of your project. In most cases, this should include a brief summary of the predictive model you intend to develop and at least one specific hypothesis related to its prediction performance. This hypothesis should include the type of model, its inputs and outputs, and proposed performance metrics. In addition to model performance, aims might relate to (a) data acquisition, (b) data exploration, (c) comparison to expert/human performance, (d) implementation feasibility, or (e) model-based intervention effectiveness, to give a few examples.
 
-## Approach (2-3 pages):
+### Approach (2-3 pages):
 Describe the steps that would be taken to carry out your project, including the following:
 - **Data acquisition.** Your project can use an existing data source or propose a new data collection. If you propose a new study, please describe its design as briefly as possible and focus on the resulting data.
 - **Data preprocessing.** Describe initial processing that would be conducted prior to modeling. These details should convey your strong understanding of the data source(s) you propose to use and/or develop, including the number and type of variables that will be available and details regarding missingness (or lack thereof).
