@@ -50,11 +50,5 @@
 
 ### Discussion Questions
 
-From the previous block, but not yet discussed:
-
-1. Chen and Asch say that algorithm performance should be compared to "real-world standards of care" rather than "an idealized and unrealizable standard of perfection". Yet in practice, we're often less willing to tolerate errors made by technology than those made by humans. What benchmark should a machine learning model exceed before it's used in clinical decision-making, e.g. performance of the average expert, the best expert, or something else?
-
-New discussion questions:
-
-2. Is the comparison to dermatologists (in *Esteva et al.*) a fair and/or meaningful one? Supposing that convolutional neural networks are indeed better than human experts at classifying skin lesions, how disruptive will this be to the practice of dermatology?
-3. What are the barriers to clinical adoption of the technologies presented in this block (e.g. skin lesion classification, colon polyp detection, diabetic retinopathy detection, ultrasound segmentation)? Who will be — or should be — the "early adopters" of deep learning based diagnostics?
+1. Is the comparison to dermatologists (in *Esteva et al.*) a fair and/or meaningful one? Supposing that convolutional neural networks are indeed better than human experts at classifying skin lesions, how disruptive will this be to the practice of dermatology?
+2. What are the barriers to clinical adoption of the technologies presented in this block (e.g. skin lesion classification, colon polyp detection, diabetic retinopathy detection, ultrasound segmentation)? Who will be — or should be — the "early adopters" of deep learning based diagnostics?
