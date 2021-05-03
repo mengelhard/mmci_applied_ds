@@ -29,7 +29,7 @@
 
 ## Course Schedule
 
-Wk | Topic | Friday / Async | Saturday | Due Before Next Block
+Week | Topic | Friday / Async | Saturday | Due Before Next Block
 --- | --- | --- | --- | ---
 0 | Preliminaries | NA | NA | - Review Course Site<br>- [Q1: Two Views of Health DS](quizzes/q1.md)
 1 | Intro to Health DS | - [AL1: Predictive Models](lectures/al1.pdf)<br>- [AL2: Logistic Regression](lectures/al2.pdf)<br>- [AL3: Multilayer Perceptron](lectures/al3.pdf) | - Course Intro<br>- [LL1: Intro to Health DS](lectures/ll1.pdf)<br>- [Coding Resources](#computational-assignments-cas)<br>- [Q1 Discussion](quizzes/q1.md#discussion-questions)<br>- [LL2: DS Principles](lectures/ll2.pdf) | - [Q2: Model Selection](quizzes/q2.md)<br>- [CA1: Predicting No-Shows](notebooks/ca1.ipynb)
