@@ -32,7 +32,7 @@
 Block | Topic | Friday / Async | Saturday | Due Before Next Block
 --- | --- | --- | --- | ---
 0 | Preliminaries | NA | NA | - Review Course Site and Materials<br>- [Q1: Two Perspectives on Health DS](quizzes/q1.md)
-1 | Intro to Health DS | - AL1: What is a Predictive Model?<br>- AL2: Logistic Regression<br>- AL3: Multilayer Perceptron | - Course Intro & Materials<br>- LL1: Intro to Health DS<br>- [Coding Resources](#computational-assignments-cas)<br>- [Q1 Discussion](quizzes/block1.md#discussion-questions)<br>- LL2: DS Principles and Culture | - [Q2: Model Selection](quizzes/q2.md)<br>- [CA1: Predicting Clinic No-Shows](notebooks/ca1.ipynb)
+1 | Intro to Health DS | - AL1: Predictive Models<br>- AL2: Logistic Regression<br>- AL3: Multilayer Perceptron | - Course Intro<br>- LL1: Intro to Health DS<br>- [Coding Resources](#computational-assignments-cas)<br>- [Q1 Discussion](quizzes/block1.md#discussion-questions)<br>- LL2: DS Principles | - [Q2: Model Selection](quizzes/q2.md)<br>- [CA1: Predicting Clinic No-Shows](notebooks/ca1.ipynb)
 2 | Learning and Model Evaluation | NA | | - Final Project Proposal<br>- [Q3: Medical Image Analysis](quizzes/q3.md)
 3 | Medical Image Analysis | | | - [Q4: NLP for Biomedical Text](quizzes/q4.md)<br>- [CA2: Understanding CNNs](notebooks/ca2.ipynb)
 4 | Natural Language Processing | NA | | - [Q5: Clinical Time Series](quizzes/q5.md)<br>- [CA3: Pubmed Abstract Classification](notebooks/ca3.ipynb)
