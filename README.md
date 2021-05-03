@@ -31,7 +31,7 @@
 
 Block | Friday / Async | Saturday | Due Before Next Block
 --- | --- | --- | ---
-0. Preliminaries | NA | NA | - Review Course Site<br>- [Q1: Two Views of Health DS](quizzes/q1.md)
+0: Preliminaries | NA | NA | - Review Course Site<br>- [Q1: Two Views of Health DS](quizzes/q1.md)
 1. Intro to Health DS | - [AL1: Predictive Models](lectures/al1.pdf)<br>- [AL2: Logistic Regression](lectures/al2.pdf)<br>- [AL3: Multilayer Perceptron](lectures/al3.pdf) | - Course Intro<br>- [LL1: Intro to Health DS](lectures/ll1.pdf)<br>- [Coding Resources](#computational-assignments-cas)<br>- [Q1 Discussion](quizzes/q1.md#discussion-questions)<br>- [LL2: DS Principles](lectures/ll2.pdf) | - [Q2: Model Selection](quizzes/q2.md)<br>- [CA1: Predicting No-Shows](notebooks/ca1.ipynb)
 2. Learning and Evaluation | - [LL3: Performance Metrics](lectures/ll3.pdf)<br>- [Q2 Discussion](quizzes/q2.md)<br>- [LL4: Dx Prediction Case Study](lectures/ll4.pdf) | - [LL5: Model Learning](lectures/ll5.pdf)<br>- [Guess & Check Regression](worksheets/mortality_example.xlsx)<br>- [LL6: Training and Overfitting](lectures/ll6.pdf) | - [Final Project Proposal](final_project.md)<br>- [Q3: Medical Image Analysis](quizzes/q3.md)
 3. Medical Image Analysis | - [AL4: Motivating CNNs](lectures/al4.pdf)<br>- [AL5: Spatial Convolution](lectures/al2.pdf)<br>- [AL6: Deep CNNs](lectures/al3.pdf) | - [LL: Medical Image Analysis] | - [Q4: NLP for Biomedical Text](quizzes/q4.md)<br>- [CA2: Understanding CNNs](notebooks/ca2.ipynb)
