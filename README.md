@@ -31,8 +31,8 @@
 
 Block | Topic | Friday / Async | Saturday | Due Before Next Block
 --- | --- | --- | --- | ---
-0 | Preliminaries | NA | NA | - Review Course Site and Materials<br>- [Q1: Two Perspectives on Health DS](quizzes/block1.md)
-1 | Intro to Health DS | - AL1: What is a Predictive Model?<br>- AL2: Logistic Regression<br>- AL3: Multilayer Perceptron | - Course Intro & Materials<br>- LL1: Intro to Health DS<br>- [Coding Resources](#computational-assignments-cas)<br>- [Discussion of Readings](quizzes/block1.md#discussion-questions)<br>- LL2: DS Principles and Culture | - [Q2: Medical Image Analysis](quizzes/block2.md)<br>- [CA1: Predicting Clinic No-Shows](notebooks/block1_noshows_noncoding.ipynb)
+0 | Preliminaries | NA | NA | - Review Course Site and Materials<br>- [Q1: Two Perspectives on Health DS](quizzes/q1.md)
+1 | Intro to Health DS | - AL1: What is a Predictive Model?<br>- AL2: Logistic Regression<br>- AL3: Multilayer Perceptron | - Course Intro & Materials<br>- LL1: Intro to Health DS<br>- [Coding Resources](#computational-assignments-cas)<br>- [Q1 Discussion](quizzes/block1.md#discussion-questions)<br>- LL2: DS Principles and Culture | - [Q2: Model Selection](quizzes/q2.md)<br>- [CA1: Predicting Clinic No-Shows](notebooks/block1_noshows_noncoding.ipynb)
 2 | Learning and Model Evaluation | NA | | - Final Project Proposal<br>- [CA2: Understanding CNNs](notebooks/block2_mnist_cnn.ipynb)
 3 | Medical Image Analysis | | | - [Q3: NLP for Clinical Text](quizzes/block3.md)
 4 | Natural Language Processing | NA | | - [Q4: Clinical Time Series](quizzes/block4.md)<br>- [CA3: Pubmed Abstract Classification](notebooks/block3_abstract_classification.ipynb)
