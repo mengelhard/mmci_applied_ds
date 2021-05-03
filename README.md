@@ -32,7 +32,6 @@
 Block | Topic | Asynchronous | In Class | Due Before Next Block
 --- | --- | --- | --- | ---
 0 | Preliminaries | None | | - Review Course Site and Materials<br>- [Quiz 1: Machine Learning for Health](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md)
-
 1 | Intro to Health DS | 
 AL1: Logistic Regression<br>
 AL2: Multilayer Perceptron | Course Intro & Materials<br>LL1: Intro to Health DS<br>[Coding Resources]<br>[Discussion of Readings](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md#discussion-questions)<br>LL2: DS Principles and Culture | - [Quiz 2: Medical Image Analysis](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [CA 1: Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
