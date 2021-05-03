@@ -13,7 +13,7 @@
 - Each quiz (see *Schedule*) links to two articles that should be read before taking it.
 - All articles are also available as .pdf in the *Resources* section of [Sakai](https://sakai.duke.edu).
 - Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
-- Quizzes are pass/fail. You must answer *all* questions correctly to pass, but you may retry an unlimited number of times.
+- You may take each quiz as many times as you like prior to the deadline.
 
 ### Computational Assignments (CAs)
 - There will be computational assignments due before blocks 2, 4, 5, and 6.
