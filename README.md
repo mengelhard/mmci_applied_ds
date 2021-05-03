@@ -32,9 +32,7 @@
 Block | Topic | Asynchronous | In Class | Due Before Next Block
 --- | --- | --- | --- | ---
 0 | Preliminaries | None | | - Review Course Site and Materials<br>- [Quiz 1: Machine Learning for Health](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md)
-1 | Intro to Health DS | 
-AL1: Logistic Regression<br>
-AL2: Multilayer Perceptron | Course Intro & Materials<br>LL1: Intro to Health DS<br>[Coding Resources]<br>[Discussion of Readings](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md#discussion-questions)<br>LL2: DS Principles and Culture | - [Quiz 2: Medical Image Analysis](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [CA 1: Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
+1 | Intro to Health DS | AL1: Logistic Regression<br>AL2: Multilayer Perceptron | Course Intro & Materials<br>LL1: Intro to Health DS<br>[Coding Resources](https://github.com/mengelhard/mmci_applied_ds/blob/master/README.md#computational-assignments-cas)<br>[Discussion of Readings](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md#discussion-questions)<br>LL2: DS Principles and Culture | - [Quiz 2: Medical Image Analysis](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [CA 1: Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
 2 | Learning and Model Evaluation | | | - Final Project Proposal<br>- [CA 2: Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
 3 | Medical Image Processing | | | - [Quiz 3: NLP for Clinical Text](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block3.md)
 4 | Natural Language Processing | | | - [Quiz 4: Clinical Time Series](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block4.md)<br>- [CA 3: Pubmed Abstract Classification](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block3_abstract_classification.ipynb)
