@@ -9,14 +9,14 @@
 - Materials for each course weekend (*i.e.,* block) are linked in the *Schedule* below
 
 ### Readings and Quizzes
-- There will be a quiz due before each block except block 6.
+- There will be a quiz due before each block *except* block 6.
 - Each quiz (see *Schedule*) links to two articles that should be read before taking it.
 - All articles are also available as .pdf in the *Resources* section of [Sakai](https://sakai.duke.edu).
 - Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
 - Quizzes are pass/fail. You must answer *all* questions correctly to pass, but you may retry an unlimited number of times.
 
 ### Computational Assignments (CAs)
-- There will be four computational assignments due before blocks 2, 4, 5, and 6.
+- There will be computational assignments due before blocks 2, 4, 5, and 6.
 - Each assignment will present code + output and ask you to interpret what you see based on principles from class.
 - **You will not need to code** to complete the assignments, which can be viewed in any web browser.
 - If you *do* have coding experience, you are encouraged to explore further by modifying the code. We recommend either [installing Anaconda](https://www.anaconda.com/products/individual#Downloads) or working in [Google Colab](colab.research.google.com).
