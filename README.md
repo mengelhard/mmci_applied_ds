@@ -36,5 +36,5 @@ Block | Friday / Async | Saturday | Due Before Next Block
 2: Learning and Evaluation | - [LL3: Performance Metrics](lectures/ll3.pdf)<br>- [Q2 Discussion](quizzes/q2.md)<br>- [LL4: Dx Prediction Case Study](lectures/ll4.pdf) | - [LL5: Model Learning](lectures/ll5.pdf)<br>- [Guess & Check Regression](worksheets/mortality_example.xlsx)<br>- [LL6: Training and Overfitting](lectures/ll6.pdf) | - [Final Project Proposal](final_project.md)<br>- [Q3: Medical Image Analysis](quizzes/q3.md)
 3: Medical Image Analysis | - [AL4: Motivating CNNs](lectures/al4.pdf)<br>- [AL5: Spatial Convolution](lectures/al2.pdf)<br>- [AL6: Deep CNNs](lectures/al3.pdf) | - [LL: Medical Image Analysis] | - [Q4: NLP for Biomedical Text](quizzes/q4.md)<br>- [CA2: Understanding CNNs](notebooks/ca2.ipynb)
 4: Biomedical NLP & Series | NA | | - [Q5: Clinical Time Series](quizzes/q5.md)<br>- [CA3: Pubmed Classification](notebooks/ca3.ipynb)
-5: Beyond Supervised Learning | | | - Final Project Report<br>- Final Project Slides<br>- [CA4: Beyond Supervised Lrng](notebooks/ca4.ipynb)
+5: Beyond Supervised Learning | | | - Final Project Report<br>- Final Project Slides<br>- [CA4: Beyond Sup. Learning](notebooks/ca4.ipynb)
 6: Course Projects | NA | - Final Project Presentations<br>LL: Beyond Supervised Learning | None
