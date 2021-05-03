@@ -5,7 +5,7 @@
 
 ## Course Materials
 
-- **[Please review the syllabus by clicking here](https://github.com/mengelhard/mmci_applied_ds/blob/master/syllabus.md)**
+- **[Please review the syllabus by clicking here](syllabus.md)**
 - Materials for each course weekend (*i.e.,* block) are linked in the *Schedule* below
 
 ### Readings and Quizzes
@@ -24,17 +24,17 @@
 
 ### Final Project
 - The course will culminate in a design project in which you propose to apply data science methods to a clinical topic of your choosing.
-- Project instructions and grading details are [here](https://github.com/mengelhard/mmci_applied_ds/blob/master/final_project.md).
+- Project instructions and grading details are [here](final_project.md).
 - **Proposals are due** before class on weekend/block 3, and the **project is due** before class on weekend/block 6.
 
 ## Course Schedule
 
-Block | Topic | Lectures | Due Before Next Block
---- | --- | --- | ---
-0 | Preliminaries | None | - Review Course Site and Materials<br>- [Quiz 1: Machine Learning for Health](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block1.md)
-1 | Intro to Healthcare DS | | - [Quiz 2: Medical Image Analysis](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block2.md)<br>- [CA 1: Predicting Clinic No-Shows](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block1_noshows_noncoding.ipynb)
-2 | Medical Image Processing | | - Final Project Proposal<br>- [CA 2: Understanding CNNs](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block2_mnist_cnn.ipynb)
-3 | Medical Data and Image Analysis | | - [Quiz 3: NLP for Clinical Text](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block3.md)
-4 | Natural Language Processing | | - [Quiz 4: Clinical Time Series](https://github.com/mengelhard/mmci_applied_ds/blob/master/quizzes/block4.md)<br>- [CA 3: Pubmed Abstract Classification](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block3_abstract_classification.ipynb)
-5 | Time Series and Unsupervised Learning | | - Final Project Report<br>- Final Project Slides<br>- [CA 4: Beyond Supervised Learning](https://github.com/mengelhard/mmci_applied_ds/blob/master/notebooks/block4_beyond_supervised_learning.ipynb)
-6 | Course Projects | Final Project Presentations | None
+Block | Topic | Friday / Async | Saturday | Due Before Next Block
+--- | --- | --- | --- | ---
+0 | Preliminaries | NA | NA | - Review Course Site and Materials<br>- [Q1: Two Perspectives on Health DS](quizzes/q1.md)
+1 | Intro to Health DS | - AL1: What is a Predictive Model?<br>- AL2: Logistic Regression<br>- AL3: Multilayer Perceptron | - Course Intro & Materials<br>- LL1: Intro to Health DS<br>- [Coding Resources](#computational-assignments-cas)<br>- [Q1 Discussion](quizzes/block1.md#discussion-questions)<br>- LL2: DS Principles and Culture | - [Q2: Model Selection](quizzes/q2.md)<br>- [CA1: Predicting Clinic No-Shows](notebooks/ca1.ipynb)
+2 | Learning and Model Evaluation | NA | | - Final Project Proposal<br>- [Q3: Medical Image Analysis](quizzes/q3.md)
+3 | Medical Image Analysis | | | - [Q4: NLP for Biomedical Text](quizzes/q4.md)<br>- [CA2: Understanding CNNs](notebooks/ca2.ipynb)
+4 | Natural Language Processing | NA | | - [Q5: Clinical Time Series](quizzes/q5.md)<br>- [CA3: Pubmed Abstract Classification](notebooks/ca3.ipynb)
+5 | Time Series and Unsupervised Learning | | | - Final Project Report<br>- Final Project Slides<br>- [CA4: Beyond Supervised Learning](notebooks/ca4.ipynb)
+6 | Course Projects | NA | - Final Project Presentations<br>LL: Beyond Supervised Learning | None
