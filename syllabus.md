@@ -1,4 +1,4 @@
-# Syllabus: Applied Data Science 2020
+# Syllabus: Applied Data Science
 [Course Website](https://github.com/mengelhard/mmci_applied_ds)
 
 ## Course Objective
