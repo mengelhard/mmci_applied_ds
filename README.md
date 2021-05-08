@@ -16,7 +16,7 @@
 - You may take each quiz as many times as you like prior to the deadline.
 
 ### Computational Assignments (CAs)
-- There will be computational assignments due before blocks 2, 4, 5, and 6.
+- There will be computational assignments due before blocks 2-6.
 - Each assignment will present code + output and ask you to interpret what you see based on principles from class.
 - **You will not need to code** to complete the assignments, which can be viewed in any web browser.
 - If you *do* have coding experience, you are encouraged to explore further by modifying the code. We recommend either [installing Anaconda](https://www.anaconda.com/products/individual#Downloads) or working in [Google Colab](colab.research.google.com).
