@@ -9,9 +9,9 @@ Each question should be answered as briefly as possible. One to two sentences is
 
 - What are the predictors?
 - What is (are) the predicted outcome(s)?
-- Where or how were the data collected, and over what period of time?
+- Where or how were the data collected, and over what period of time? If multiple datasets were used, please answer this question for each one.
 - Were the data filtered in any way, and if so, how (e.g. inclusion/exclusion, outlier removal)?
-- What preprocessing steps were completed (e.g. feature extraction, standardization)?
+- What preprocessing or data augmentation steps were completed (e.g. feature extraction, standardization)?
 
 ### Model Development
 
@@ -23,7 +23,7 @@ Each question should be answered as briefly as possible. One to two sentences is
 
 ### Model Evaluation
 
-- What data (or portion of the data), if any, were used to evaluate the model (i.e. select hyperparameters)?
+- What data (or portion of the data), if any, were used to evaluate the model?
 - Based on performance metrics, please give a brief, practical summary of model performance at a particular operating point (Example: the model can achieve 90% sensitivity at 90% specificity, which would result in an expected 5 false positives and 5 false negatives for each 100 people evaluated at an expected prevalence of 50%).
 - What measures were used to evaluate performance?
 - Are there any other performance measures that were not used, but that you think are important to the proposed application (e.g. in a clinical scenario)?
