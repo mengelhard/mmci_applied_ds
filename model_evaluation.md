@@ -1,4 +1,4 @@
-## Paper Evaluation Questionnaire
+## Model Evaluation Questionnaire
 *Model Evaluation Pathway*, MMCi Applied Data Science
 
 ---
