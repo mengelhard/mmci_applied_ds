@@ -10,17 +10,31 @@
 
 ### Readings and Quizzes
 - There will be a quiz due before each block *except* block 6.
-- Each quiz (see *Schedule*) links to two articles that should be read before taking it.
+- Each quiz (see *Schedule*) links to one to two articles that should be read before taking it.
 - All articles are also available as .pdf in the *Resources* section of [Sakai](https://sakai.duke.edu).
 - Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
 - You may take each quiz as many times as you like prior to the deadline.
 
-### Computational Assignments (CAs)
-- There will be computational assignments due before blocks 2-6.
-- Each assignment will present code + output and ask you to interpret what you see based on principles from class.
-- **You will not need to code** to complete the assignments, which can be viewed in any web browser.
-- If you *do* have coding experience, you are encouraged to explore further by modifying the code. We recommend either [installing Anaconda](https://www.anaconda.com/products/individual#Downloads) or working in [Google Colab](colab.research.google.com).
+### Group Assignments
+- At the beginning of the course, you will choose one of two pathways for your group assignments.
+- Both pathways require four assignments in total, which will be due at the beginning of each course weekend (weekends 2-5). Each assignment relates to the application of a specific machine learning method we will study in class to a clinical or healthcare problem.
+- Students choosing the *model development* pathway will learn to work with health-related datasets and train and evaluate predictive models by modifying Python code in a series of Jupyter notebooks.
+- Students choosing the *model evaluation* pathway will learn to critically evaluate machine learning models presented in the clinical literature by rigorously analyzing a series of clinical papers.
+
+#### Model Development Pathway
+- Assignments will guide you through the model development process, from loading and preprocessing data to training and evaluating models.
+- Students choosing this pathway should either (a) have prior experience working in Python, or (b) have prior experience working in another scientific computing language (e.g. R, Matlab) and be willing to learn Python syntax sufficient to modify and extend code blocks in the model development assignments. If you are not sure, please take a look at the [posted modevel development assignments](notebooks) to get a better feel for what will be required.
+- To complete the assignments, you may either [install Anaconda](https://www.anaconda.com/products/individual#Downloads) on your computer or work in [Google Colaboratory](colab.research.google.com), which allows you to write and execute Python code in your browser.
 - Recommended Python resources include [Duke Library tutorials](https://library.duke.edu/data/tutorials), the [Python Crash Course book](https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B07J4521M3/ref=sr_1_1_sspa?dchild=1&keywords=Python+book&qid=1618331896&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSVNYTDhDUExZQktDJmVuY3J5cHRlZElkPUEwODgwNjQwM0RNT0U2Nk9XTDdDQiZlbmNyeXB0ZWRBZElkPUEwOTg4NjEyODc5U0ZROVNEQkZEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), and [Google Python class](https://developers.google.com/edu/python/).
+
+#### Model Evaluation Pathway
+- Assignments will train you to critically evaluate machine learning models presented in the clinical literature by briefly answering questions related to (a) the data source, (b) model development, (c) model evaluation, and (d) model deployment.
+- You will answer the same set of questions for a clinical paper in each of the following four areas:
+  - methods for tabular clinical data
+  - methods for electronic health record data
+  - computer vision for medical imaging
+  - natural language processing for clinical text
+- Questions are provided in the [model evaluation questionnaire](model_evaluation.md). Please note that not all questions apply to each paper, and a brief list of questions to omit for a given paper will be provided prior to the assignment.
 
 ### Final Project
 - The course will culminate in a design project in which you propose to apply data science methods to a clinical topic of your choosing.
