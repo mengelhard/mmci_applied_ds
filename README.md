@@ -21,13 +21,13 @@
 - Students choosing the *model development* pathway will learn to work with health-related datasets and train and evaluate predictive models by modifying Python code in a series of Jupyter notebooks.
 - Students choosing the *model evaluation* pathway will learn to critically evaluate machine learning models presented in the clinical literature by rigorously analyzing a series of clinical papers.
 
-#### Model Development Pathway
+**Model Development Pathway**
 - Assignments will guide you through the model development process, from loading and preprocessing data to training and evaluating models.
 - Students choosing this pathway should either (a) have prior experience working in Python, or (b) have prior experience working in another scientific computing language (e.g. R, Matlab) and be willing to learn Python syntax sufficient to modify and extend code blocks in the model development assignments. If you are not sure, please take a look at the [posted modevel development assignments](notebooks) to get a better feel for what will be required.
 - To complete the assignments, you may either [install Anaconda](https://www.anaconda.com/products/individual#Downloads) on your computer or work in [Google Colaboratory](colab.research.google.com), which allows you to write and execute Python code in your browser.
 - Recommended Python resources include [Duke Library tutorials](https://library.duke.edu/data/tutorials), the [Python Crash Course book](https://www.amazon.com/Python-Crash-Course-Eric-Matthes-ebook/dp/B07J4521M3/ref=sr_1_1_sspa?dchild=1&keywords=Python+book&qid=1618331896&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSVNYTDhDUExZQktDJmVuY3J5cHRlZElkPUEwODgwNjQwM0RNT0U2Nk9XTDdDQiZlbmNyeXB0ZWRBZElkPUEwOTg4NjEyODc5U0ZROVNEQkZEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==), and [Google Python class](https://developers.google.com/edu/python/).
 
-#### Model Evaluation Pathway
+**Model Evaluation Pathway**
 - Assignments will train you to critically evaluate machine learning models presented in the clinical literature by briefly answering questions related to (a) the data source, (b) model development, (c) model evaluation, and (d) model deployment.
 - You will answer the same set of questions for a clinical paper in each of the following four areas:
   - methods for tabular clinical data
