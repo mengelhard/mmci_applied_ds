@@ -36,8 +36,8 @@ Class attendance is mandatory. Attendance will be taken at every class. If you m
 Item | In Groups? | Due Date | Percentage
 --- | --- | --- | ---
 Class Participation | No | Term | 20%
-Readings and Quizzes | No | Before Blocks 1-5 | 25%
-Computational Exercises | Yes | Before Blocks 2, 4, 5, and 6 | 20%
+Readings and Quizzes | No | Before Blocks 1-5 | 15%
+Group Assignments | Yes | Before Blocks 2, 3, 4, and 5 | 30%
 Final Project Proposal | Yes | Before Block 3 | 5%
 Final Project Report | Yes | Before Block 6 | 18%
 Final Project Presentation | Yes | Before Block 6 | 12%
