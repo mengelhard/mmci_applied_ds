@@ -1,9 +1,8 @@
 # Applied Data Science
 *Master of Management in Clinical Informatics (MMCi) Program*
 
-**Course Director:** Matthew Engelhard
-
-**Teaching Assistant:** Bob Brassil
+- **Course Director:** Matthew Engelhard
+- **Teaching Assistant:** Bob Brassil
 
 ## Course Materials
 
