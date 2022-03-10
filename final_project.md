@@ -2,8 +2,8 @@
 
 Deliverable(s) | Due Date
 --- | ---
-Proposal | Friday at 7:59am ET, start of Block 3
-Report & Slides | Friday at 7:59am ET, start of Block 6
+Proposal | Friday at 7:59am ET, start of weekend 3
+Report & Slides | Friday at 7:59am ET, start of weekend 6
 
 ## Team Assignment: 
 Propose a data science research project related to a clinical topic of your choosing. Your project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will be:
