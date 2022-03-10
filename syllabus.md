@@ -7,14 +7,20 @@ To provide students with an understanding of the capabilities and limitations of
 ## Course Overview
 Data science and machine learning are now beginning to impact clinical medicine, with performance on some tasks, such as detection of skin cancer, exceeding that of experienced clinicians. This course is designed to introduce students to the data science techniques poised to disrupt clinical practice through foundational material and clinical case studies. Course content will provide students with an intuitive, applications-oriented foundation in these techniques while highlighting both their capabilities and current limitations. Students will be introduced to pitfalls commonly encountered when developing models for clinical data as well as relevant practical and ethical considerations.
 
-The course will emphasize the following areas:
-- Introduction to the multilayer perceptron, with applications to EHR predictive modeling
+The course will introduce students to healthcare data science methods in the following areas:
+- Logistic regression for tabular clinical data
+- Neural network based prediction models, with applications to the electronic health record
 - Convolutional neural networks for medical image analysis
 - Natural language processing for patient notes and other text data
-- Methods and models for clinical time-series
-- Reinforcement learning for sequential clinical decision-making
+- Introduction to modeling sequences and clinical time-series
 
-It will culminate in a final design project in which students will work in their teams to propose a novel data science project related to a clinical topic of their interest. Projects will focus on one of the data science areas listed above and detail the proposed approach to data collection or extraction, model development, and model validation.
+By the end of the course, students will understand:
+- the model development process and common pitfalls
+- choosing and evaluating clinically relevant performance metrics
+- how to assess model generalization and possible overfitting
+- the role of model interpretability and explainability in clinical decision support systems
+
+The course will culminate in a final design project in which students will work in their teams to propose a novel data science project related to a clinical topic of their interest. Projects will focus on one of the data science areas listed above and detail the proposed approach to data collection or extraction, model development, and model validation.
 
 ## Course Readings
 - Readings will be drawn from the scientific literature. There is no course textbook.
