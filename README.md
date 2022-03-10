@@ -7,10 +7,10 @@
 ## Course Materials
 
 - **[Please review the syllabus by clicking here](syllabus.md)**
-- Materials for each course weekend (*i.e.,* block) are linked in the *Schedule* below
+- Materials for each course weekend are linked in the *Schedule* below
 
 ### Readings and Quizzes
-- There will be a quiz due before each block *except* block 6.
+- There will be a quiz due before each weekend *except* weekend 6.
 - Each quiz (see *Schedule*) links to one to two articles that should be read before taking it.
 - All articles are also available as .pdf in the *Resources* section of [Sakai](https://sakai.duke.edu).
 - Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
@@ -40,7 +40,7 @@
 ### Final Project
 - The course will culminate in a design project in which you propose to apply data science methods to a clinical topic of your choosing.
 - Project instructions and grading details are [here](final_project.md).
-- **Proposals are due** before class on weekend/block 3, and the **project is due** before class on weekend/block 6.
+- **Proposals are due** before class on weekend 3, and the **project is due** before class on weekend 6.
 
 ## Course Schedule
 
