@@ -10,11 +10,11 @@
 - Materials for each course weekend are linked in the *Schedule* below
 
 ### Readings and Quizzes
-- There will be a quiz due before each weekend *except* weekend 6.
+- There will be a brief quiz due before each weekend *except* weekend 6.
 - Each quiz (see *Schedule*) links to one to two articles that should be read before taking it.
 - All articles are also available as .pdf in the *Resources* section of [Sakai](https://sakai.duke.edu).
 - Your answers must be entered in the *Tests and Quizzes* section of [Sakai](https://sakai.duke.edu) before the beginning of class.
-- You may take each quiz as many times as you like prior to the deadline.
+- You may take each quiz *as many times as you like* prior to the deadline.
 
 ### Group Assignments
 - At the beginning of the course, you will choose one of two pathways for your group assignments.
@@ -44,12 +44,16 @@
 
 ## Course Schedule
 
-Block | Topic | Friday / Async | Saturday | Due Before Next Block
---- | --- | --- | --- | ---
-0 | Preliminaries | None | None | - Review Course Site<br>- [Read Obermeyer and Emanuel](https://www.nejm.org/doi/full/10.1056/NEJMp1606181)<br>- [Read Chen and Asch](https://www.nejm.org/doi/full/10.1056/NEJMp1702071)<br>- [Q1: 2 Views of Health DS](quizzes/q1.md)
-1 | Intro to Health DS | - [AL1: Predictive Models](lectures/al1.pdf)<br>- [AL2: Logistic Regression](lectures/al2.pdf)<br>- [AL3: Multilayer Perceptron](lectures/al3.pdf) | - Course Intro<br>- [LL1: Intro to Health DS](lectures/ll1.pdf)<br>- [Coding Resources](#computational-assignments-cas)<br>- [Q1 Discussion](quizzes/q1.md#discussion-questions)<br>- [LL2: DS Principles](lectures/ll2.pdf) | - [Read Khera et al., 2021](https://jamanetwork.com/journals/jamacardiology/fullarticle/2777055)<br>- [Read Engelhard et al., 2021](https://jamanetwork.com/journals/jamacardiology/article-abstract/2777054)<br>- [Q2: Model Selection](quizzes/q2.md)<br>- [CA1: Visualizing Features](notebooks/assignment1.ipynb)
-2 | Learning and Evaluation | - Q&A on AL1-3<br>- [LL3: Performance Measures](lectures/ll3.pdf)<br>- [LL4: Dx Prediction Case Study](lectures/ll4.pdf) | - [LL5: Model Learning](lectures/ll5.pdf)<br>- [Guess & Check Regression](worksheets/mortality_example.xlsx)<br>- [LL6: Training and Overfitting](lectures/ll6.pdf)<br>- [Q2 Discussion](quizzes/q2.md) | - [Final Project Proposal](final_project.md#proposal-1-page)<br>- [Read Hinton, 2018](https://jamanetwork.com/journals/jama/fullarticle/2701666)<br>- [Read Esteva et al., 2017](https://www.nature.com/articles/nature21056)<br>- [Q3: Medical Image Analysis](quizzes/q3.md)<br>- [CA2: Predicting Malignancy](notebooks/assignment2.ipynb)
-3 | Medical Image Analysis | - [AL4: Motivating CNNs](lectures/al4.pdf)<br>- [AL5: Spatial Convolution](lectures/al5.pdf)<br>- [AL6: Deep CNNs](lectures/al6.pdf) | - [LL7: Medical Image Analysis](lectures/ll7.pdf)<br>- [Beede et al. discussion](https://youtu.be/-7VR8fZFOT4) | - [Read Hirschberg and Manning, 2015](https://science.sciencemag.org/content/349/6245/261)<br>- [Read Taggart et al., 2018](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706498)<br>- [Q4: Biomedical NLP](quizzes/q4.md)<br>- [CA3: Handwritten Digits](notebooks/assignment3.ipynb)
-4 | CNN Wrap-Up<br>& Intro to Clinical NLP | - [LL8: Envirotyping Case Study](lectures/ll8.pdf)<br>- [Q3 Discussion](quizzes/q3.md)<br>- [LL9: Beyond Classification](lectures/ll9.pdf) | - [LL10: Bag of Words Models](lectures/ll10.pdf)<br>- [Q4 Discussion](quizzes/q4.md)<br>- [LL11: Biomedical NLP](lectures/ll11.pdf) | - [Read Che et al., 2018](https://www.nature.com/articles/s41598-018-24271-9)<br>- [Read Choi et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5391725/)<br>- [Q5: Clinical Time Series](quizzes/q5.md)<br>- [CA4: Abstract Classification](notebooks/assignment4.ipynb)
-5 | NLP and Sequential Data | - [AL7: Word Embeddings & VSWEM](lectures/al7.pdf)<br>- [AL8: Learning Word Embeddings](lectures/al8.pdf) | - [LL12: Sequential Models](lectures/ll12.pdf)<br>- [Back to Dx Prediction (LL4)](lectures/ll4.pdf)<br>- [Q5 Discussion](quizzes/q5.md)<br>- [LL13: Seq. Decision-Making](lectures/ll13.pdf) | - [Final Project Report](final_project.md#report-3-pages-single-spaced)<br>- [Final Project Slides](final_project.md#presentation-15-minutes)<br>- [CA5: Beyond Sup. Learning](notebooks/assignment5.ipynb)
-6 | Course Projects | - Project Presentations | - Project Presentations<br>- [LL14: Beyond Sup. Learning](lectures/ll14.pdf) | None
+Weekend | *Before* Class | Lectures | Activities | Model Development Pathway | Model Evaluation Pathway
+--- | --- | --- | --- | --- | ---
+1: Evaluating Predictive Models | Review Course Site<br>Read [Obermeyer and Emanuel](https://www.nejm.org/doi/full/10.1056/NEJMp1606181)<br>Read [Chen and Asch](https://www.nejm.org/doi/full/10.1056/NEJMp1702071)<br>Complete [Quiz 1](quizzes/q1.md) in Sakai | [AL1: Predictive Models](lectures/al1.pdf)<br>[AL2: Logistic Regression](lectures/al2.pdf)<br>[LL1: Intro to Health DS](lectures/ll1.pdf)<br>[LL2: DS Principles](lectures/ll2.pdf) | Calculating Performance Measures<br>Understanding Logistic Regression | CE1: Welcome to the Jupyter Notebook<br>CE2: Visualizing Features of Breast Cancer Samples | Evaluate [Khera et al., 2021](https://jamanetwork.com/journals/jamacardiology/fullarticle/2777055)
+
+2: Learning in Neural Networks | Read [Engelhard et al., 2021](https://jamanetwork.com/journals/jamacardiology/article-abstract/2777054)<br>Complete [Quiz 2](quizzes/q2.md) | [AL3: Multilayer Perceptron](lectures/al3.pdf)<br>[LL5: Model Learning](lectures/ll5.pdf)<br>[LL3: More Performance Measures](lectures/ll3.pdf) | [Guess & Check Regression](worksheets/mortality_example.xlsx)<br>TBD | CE3: Predicting malignancy from features of breast cancer samples<br>CE4: Exploring Overfitting | Evaluate Article TBD
+
+3: Medical Image Analysis | Read [Hinton, 2018](https://jamanetwork.com/journals/jama/fullarticle/2701666)<br>Complete [Quiz 3](quizzes/q3.md) | [AL4: Motivating CNNs](lectures/al4.pdf)<br>[AL5: Spatial Convolution](lectures/al5.pdf)<br>[AL6: Deep CNNs](lectures/al6.pdf)<br>[LL7: Medical Image Analysis](lectures/ll7.pdf)<br>Model Evaluation, Generalization, and Overfitting | Activities | CE5: Identifying Handwritten Digits<br>CE6: Better MNIST Predictions<br>CE7 (Optional): Transfer Learning | Evaluate [Esteva et al., 2017](https://www.nature.com/articles/nature21056)
+
+4: Biomedical Text Processing | Complete [Final Project Proposal](final_project.md#proposal-1-page)<br>Read [Hirschberg and Manning, 2015](https://science.sciencemag.org/content/349/6245/261)<br>Complete [Quiz 4](quizzes/q4.md) | [LL10: Bag of Words Models](lectures/ll10.pdf)<br>[LL11: Biomedical NLP](lectures/ll11.pdf)<br>[AL7: Word Embeddings & VSWEM](lectures/al7.pdf)<br>[AL8: Learning Word Embeddings](lectures/al8.pdf)<br>Eric Poon Guest Lecture | Building Text Features<br>Exploring Word Embeddings | CE8: Text Pre-Processing<br>CE9: Bag of Words Models | Evaluate [Taggart et al., 2018](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706498)
+
+5: Working with Multi-Modal Health Data | Watch [Beede et al.](https://youtu.be/-7VR8fZFOT4)<br>Complete Quiz 5 | Multi-Modal Health Data<br>[LL4: Dx Prediction Case Study](lectures/ll4.pdf)<br>Explaining Model Predictions | TBD | None | None
+
+6: Course Projects | [Final Project Report](final_project.md#report-3-pages-single-spaced) | Beyond Supervised Learning | None | None | None
