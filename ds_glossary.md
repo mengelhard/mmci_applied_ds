@@ -10,7 +10,7 @@
 - Bag of words model: The bag-of-words model is a way of representing text data when modeling text with machine learning algorithms.
 - Binary Classification: It is a process or task of classification, in which a given data is being classified into two classes.  It’s basically a kind of prediction about which of two groups the thing belongs to.
 - Black Box Model: After a model is trained it can sometimes become difficult to understand the inner workings of the model and the manner in which it arrives at decisions, especially in deep neural networks. The model is then considered a ‘Black Box’
-- Categoric variables: Also called a qualitative variable. A variable that can take on one of a limited and usually fixed, number of possible values, assigning each individual or other unit of observation to a particular group of nominal category on the basis of some qualitative property
+- **Categorical variables:** A variable that can take on one of a limited and usually fixed number of possible values. Common examples in healthcare include sex, race, diagnosis codes, procedure codes, and medications
 - Classification Model: Classification models are a subset of supervised machine learning . A classification model reads some input and generates an output that classifies the input into some category
 - Clustering: A way of grouping the data points into different clusters, consisting of similar data points
 - Computable phenotype: re-usable computerized search queries that detect specific clinical events or diseases using electronic health record data
@@ -18,9 +18,8 @@
 - Confusion Matrix: A summary of prediction results on a classification problem.
 - Convolution: In mathematics (in particular, functional analysis), convolution is a mathematical operation on two functions (f and g) that produces a third function ( ) that expresses how the shape of one is modified by the other
 - Convolutional Neural Network (CNN): A  Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other.
-- Covariants: See Predictors: A function of the coefficients and variables of a given function which is invariant under a linear transformation except for a factor equal to a power of the determinant of the transformation 
 - Cross entropy Loss: Cross-entropy loss, or log loss, measures the performance of a classification model whose output is a probability value between 0 and 1. Cross-entropy loss increases as the predicted probability diverges from the actual label.
-- Data filtering: Inclusion/exclusion criteria
+- **Data filtering:** Applying inclusion and/or exclusion criteria to remove individuals or data points from an analysis
 - Data Model: the process of producing a descriptive diagram of relationships between various types of information that are to be stored in a database. One of the goals of data modeling is to create the most efficient method of storing information while still providing for complete access and reporting. 1
 - Data parameter: A set of properties whose values determine the characteristics of something. A limit or boundary of the data.
 - Data Partitioning: the technique of distributing data across multiple tables, disks, or sites in order to improve query processing performance or increase database manageability
