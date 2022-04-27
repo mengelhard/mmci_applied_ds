@@ -44,7 +44,7 @@ Item | In Groups? | Due Date | Percentage
 Class Participation | No | Term | 20%
 Readings and Quizzes | No | Before weekends 1-5 | 15%
 Group Assignments | Yes | Before weekends 2, 3, 4, and 5 | 30%
-Final Project Proposal | Yes | Before weekend 3 | 5%
+Final Project Proposal | Yes | Before weekend 4 | 5%
 Final Project Report | Yes | Before weekend 6 | 18%
 Final Project Presentation | Yes | Before weekend 6 | 12%
 
