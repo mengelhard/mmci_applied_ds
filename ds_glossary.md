@@ -7,18 +7,18 @@
 - **Algorithm:** A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer
 - **Area under the ROC Curve (AUROC):** A common performance metric for binary classification that can be computed by (a) quantifying the area under the receiver operating characteristic (ROC) curve *or* (equivalently) the sensitivity-specificity curve; or (b) calculating the probability that a randomly selected positive example has a higher predicted probability of being predicted positive than a randomly selected negative example
 - **Average Precision (AP):** Also called the average positive predictive value (PPV), the average precision is an estimate of the area under the precision (i.e. PPV) versus recall (i.e. sensitivity) curve
-- Bag of words model: The bag-of-words model is a way of representing text data when modeling text with machine learning algorithms.
-- Binary Classification: It is a process or task of classification, in which a given data is being classified into two classes.  It’s basically a kind of prediction about which of two groups the thing belongs to.
-- Black Box Model: After a model is trained it can sometimes become difficult to understand the inner workings of the model and the manner in which it arrives at decisions, especially in deep neural networks. The model is then considered a ‘Black Box’
+- **Bag of words model:** An approach to natural language processing in which document features are based on word or phrase counts only without considering the relative positions of words and phrases within the document as a whole
+- **Binary classification:** A prediction task in which the label y belongs to one of two classes or categories (e.g. positive/negative, yes/no)
+- **Black box:** After a model is trained it can sometimes become difficult to understand the inner workings of the model and the manner in which it arrives at decisions, especially in deep neural networks. The model is then considered a ‘Black Box’
 - **Categorical variables:** A variable that can take on one of a limited and usually fixed number of possible values. Common examples in healthcare include sex, race, diagnosis codes, procedure codes, and medications
-- Classification Model: Classification models are a subset of supervised machine learning . A classification model reads some input and generates an output that classifies the input into some category
-- Clustering: A way of grouping the data points into different clusters, consisting of similar data points
-- Computable phenotype: re-usable computerized search queries that detect specific clinical events or diseases using electronic health record data
-- Computer Vision: (broader term in relation to CNN)
-- Confusion Matrix: A summary of prediction results on a classification problem.
-- Convolution: In mathematics (in particular, functional analysis), convolution is a mathematical operation on two functions (f and g) that produces a third function ( ) that expresses how the shape of one is modified by the other
-- Convolutional Neural Network (CNN): A  Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other.
-- Cross entropy Loss: Cross-entropy loss, or log loss, measures the performance of a classification model whose output is a probability value between 0 and 1. Cross-entropy loss increases as the predicted probability diverges from the actual label.
+- **Classification model:** A predictive model for which the predicted value is a categorical label
+- Clustering: A way of the data points into different clusters consisting of similar data points
+- **Computable phenotype:** a set of rules or criteria used to identify a specific clinical diagnosis, event, or finding using electronic health record data
+- **Computer vision:** A field combining elements of machine learning, robotics, and signal processing to interpret image data and use these data to make predictions or decisions
+- **Confusion Matrix:** A cross-tabulation of true labels versus model predictions used to summarize the performance of a classification model
+- **Convolution (computer vision):** A mathematical operation used to quantify the similarity between a given filter and each region of an image or other feature map
+- **Convolutional Neural Network (CNN):** A deep neural network containing multiple convolutional layers (i.e. layers implementing the convolution operation). CNNs are most common in image processing but can be applied to a wide variety of data modalities
+- **Cross-entropy loss:** The usual loss function used to train classification models. It quantifies the correspondence between predicted probabilities and true labels. Mathematically, it is the negative log likelihood of a categorical random variable corresponding to the label
 - **Data filtering:** Applying inclusion and/or exclusion criteria to remove individuals or data points from an analysis
 - Data Model: the process of producing a descriptive diagram of relationships between various types of information that are to be stored in a database. One of the goals of data modeling is to create the most efficient method of storing information while still providing for complete access and reporting. 1
 - Data parameter: A set of properties whose values determine the characteristics of something. A limit or boundary of the data.
@@ -58,16 +58,16 @@
 - Model interpretability: The degree to which a human can consistently predict the model’s result
 - Model, Algorithm: In the machine learning setting, model and algorithm are frequently used interchangeably to refer to the final ready-to-use machine learning method. These terms refer to the steps taken by the machine to assess input data and make a determination about what is shown in the data.
 - **Motif:** A pattern present in an image that can be detected with a convolutional filter.
-- Multi-class classification: The problem of classifying instances into one of three or more classes/
+- **Multi-class classification:** A prediction task in which the label y belongs to one of three or more classes or categories
 - Multi-Layer Perceptron (MLP): A supplement of feed forward neural network. It consists of three types of layers—the input layer, output layer and hidden layer. The input layer receives the input signal to be processed. The required task such as prediction and classification is performed by the output layer. An arbitrary number of hidden layers that are placed in between the input and output layer are the true computational engine of the MLP. Similar to a feed forward network in a MLP the data flows in the forward direction from input to output layer. The neurons in the MLP are trained with the back propagation learning algorithm.
-- Natural Language Processing (NLP):  A field in machine learning with the ability of a computer to understand, analyze, manipulate, and potentially generate human language.
-- Neural Network: A series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
-- Numeric variables: Numeric variables have values that describe a measurable quantity as a number, like 'how many' or 'how much'. Therefore numeric variables are quantitative variables.
-- Object Detection: A computer vision technique that allows us to identify and locate objects in an image or video
+- **Natural Language Processing (NLP):**  A branch of machine learning concerned with training algorithms to understand, analyze, manipulate, and generate human language
+- Neural network: A series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
+- **Numeric variable:** A variable whose value describes a measurable quantity, such as 'how many' or 'how much'. Therefore numeric variables are quantitative variables
+- **Object Detection:** A computer vision technique that allows objects in an image or video to be located and identified
 - **Odds:** The ratio of the probability that an event of interest *will* occur to the probability that it *will not* occur
 - Online Learning: A method of machine learning in which data becomes available in a sequential order and is used to update the best predictor for future data at each step, as opposed to batch learning techniques which generate the best predictor by learning on the entire training data set at once
 - Operating point:
-- Ordinal variables: An ordinal variable is similar to a categorical variable. The difference between the two is that there is a clear ordering of the categories.
+- **Ordinal variables:** A variable that is similar to a categorical variable, but the categories are ordered. *Example:* rating scales / Likert scales
 - Outlier: An observation that lies an abnormal distance from other values in a random sample from a population.
 - Overfitting: Overfitting is a scenario in which a machine learning model is trained to predict the training data too well, such that it does not generalize to new data sets. In theory, any set of data can be fit with a mathematical model if large numbers of parameters are entered into a mathematical model. This overfitting can occur even if there is no logical relationship between the data and the outcome. For example, a reasonably good fit can be obtained using regression to determine the relationship between age, cholesterol, and sex, to stroke because each of these variables has a physiological relationship with the development of atherosclerosis and subsequent stoke. The mathematical model relating these risk factors and stroke can have a better fit if more parameters than these are entered into the model, even if those parameters have nothing to do with stroke. The resulting model may not perform well clinically if its fit relies on these extra variables. When the model is applied to a different data set than the one on which it was developed, its predictive ability may fail.
 - Parameter: Parameters are the internal values of a machine learning model that are derived based on the training data. For example, the parameters in logistic regression include the weights that are multiplied with each input variable as part of the regression equation. If a logistic-regression model were developed to assess the need for a radiograph to evaluate an ankle trauma case, input features may include the presence of bone tenderness at anatomic sites A and B. The parameter associated with each site would be greater than 0, indicating a higher likelihood that radiographs are needed to rule out fracture. The overall score would be related to multiplying the presence or absence (1 or 0) of tenderness at A and B with their respective parameters. The values of the parameters are learned during a training process to optimize the fit between the available data and the machine learning model outputs.
@@ -82,20 +82,20 @@
 - Probability: A mathematical tool used to study randomness. It deals with the chance (the likelihood) of an event occurring.
 - Probability distribution: The “shape” of your data set.  A statistical function that describes the likelihood of the occurrence of possible values that a variable can take and plots them to a visual graph. A common example visually is the bell curve
 - **Recall:** Another term for sensitivity
-- Receiver Operating Characteristic Curve (ROC curve): ROC curve is a graph showing the performance of a classification model at all classification thresholds
-- Reference Standard: For a diagnostic test, a reference standard is the reference against which the proposed method is compared. The reference standard is often a widely accepted test or gold standard for the diagnosis, but it can also be based on diagnoses provided by expert clinicians.
-- Regression: Regression Models are used to predict a continuous value. An example would predicting prices of a house given the features of house like size, price etc is one of the common examples of Regression. It is a supervised technique. 
+- **Receiver Operating Characteristic Curve (ROC curve):** A graph showing the relationship between the sensitivity and specificity of a binary classification model across the full range of possible classification thresholds
+- **Reference Standard:** For a diagnostic test, a reference standard is the reference against which the proposed method is compared. The reference standard is often a widely accepted test or gold standard for the diagnosis, but it can also be based on diagnoses provided by expert clinicians
+- **Regression model:** A predictive model for which the predicted value is numeric
 - Regularization: A technique used to reduce the errors by fitting the function appropriately on the given training set and avoid overfitting.
-- Reinforcement Learning: A machine learning training method based on rewarding desired behaviors and/or punishing undesired ones. In general, a reinforcement learning agent is able to perceive and interpret its environment, take actions and learn through trial and error.
-- Semi-supervised learning: A type of machine learning that refers to a learning problem (and algorithms designed for the learning problem) that involves a small portion of labeled examples and a large number of unlabeled examples from which a model must learn and make predictions on new examples.
+- **Reinforcement Learning:** A branch of machine learning in which an agent (e.g. an algorithm) learns to make predictions or decisions that maximize its accumulated reward or utility over time. A reinforcement learning agent is able to perceive and interpret its environment and take actions, and it learns through trial and error
+- **Semi-supervised learning:** A type of machine learning in which some labels are known, and others are not known
 - **Sensitivity:** The proportion of positive cases correctly identified (i.e. predicted) as positive by a prediction model or diagnostic test
 - Sequential Data: Sequential Data is any kind of data where the order matters to the observation.
 - Sparse: Features with sparse data are features that have mostly zero values. This is different from features with missing data. Examples of sparse features include vectors of one-hot-encoded words or counts of categorical data
 - Specificity: The proportion of actual negatives, which got predicted as the negative (or true negative)
 - Structured and unstructured data: Structured data is highly specific and is stored in a predefined format, where unstructured data is a conglomeration of many varied types of data that are stored in their native formats.
-- Supervised Learning: Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.
+- **Supervised Learning:** The branch of machine learning that focuses on learning a function that maps inputs to outputs based on example input-output pairs
 - **Tabular data:** Data stored in a table or spreadsheet format
-- Test Set: The sample of data used to provide an unbiased evaluation of a final model fit on the training dataset.
+- **Test Set:** Data not used in model development that is instead used to obtain an unbiased estimate of prediction performance
 - Time-Series Data: Time series data is a collection of observations obtained through repeated measurements over time.
 - Training (training similar to learning): Model training in machine language is the process of feeding an ML algorithm with data to help identify and learn good values for all attributes involved.
 - Training Set: 
