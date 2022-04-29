@@ -3,7 +3,7 @@
 
 ## Instructions
 
-- Questions should be answered as briefly as possible. One to two sentences is ideal but not required.
+- Please answer each question as briefly as possible. One to two sentences is ideal but not required.
 - For **Assignment 1** (evaluate [Khera et al.](https://jamanetwork.com/journals/jamacardiology/fullarticle/2777055)), please answer questions 1-4, 6, and 11-16 only. There are 11 questions in total. Each correct or thoughtful response (as appropriate) will receive 1 point, and the assignment will be graded on a 10-point scale.
 - For **all other assignments**, please answer all questions. There are 16 questions in total. Each correct or thoughtful response (as appropriate) will receive 1 point, and the assignment will be graded on a 15-point scale.
 
