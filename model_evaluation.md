@@ -5,7 +5,7 @@
 
 Questions should be answered as briefly as possible. One to two sentences is ideal but not required. A correct or thoughtful response (as appropriate) will receive 1 point, for up to 15 points in total. Note that there are 16 questions.
 
-**For the first assignment** (evaluate [Khera et al.](https://jamanetwork.com/journals/jamacardiology/fullarticle/2777055)), please answer questions 1-4, 6, and 11-16 only. There are 11 questions in total, each correct or thoughtful response (as appropriate) will receive 1 point, and the assignment will be graded on a 10-point scale.
+- **For the first assignment** (evaluate [Khera et al.](https://jamanetwork.com/journals/jamacardiology/fullarticle/2777055)), please answer questions 1-4, 6, and 11-16 only. There are 11 questions in total, each correct or thoughtful response (as appropriate) will receive 1 point, and the assignment will be graded on a 10-point scale.
 
 ### Data and source
 
