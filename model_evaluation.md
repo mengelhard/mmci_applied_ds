@@ -1,8 +1,6 @@
 # Model Evaluation Questionnaire
 *Model Evaluation Pathway*, MMCi Applied Data Science
 
----
-
 ## Instructions
 
 - Questions should be answered as briefly as possible. One to two sentences is ideal but not required.
