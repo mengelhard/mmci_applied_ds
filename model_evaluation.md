@@ -6,7 +6,7 @@
 - Please answer each question as briefly as possible. One to two sentences is ideal but not required.
 - For **Assignment 1** (evaluate [Khera et al.](https://jamanetwork.com/journals/jamacardiology/fullarticle/2777055)), please answer questions 1-4, 6, and 11-16 only. There are 11 questions in total. Each correct or thoughtful response (as appropriate) will receive 1 point, and the assignment will be graded on a 10-point scale.
 - For **Assignment 2** (evaluate [Tomašev et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722431/)), please skip question 7 but answer all other questions. Questions 5 and 10 will be graded leniently, and we'll be exploring these topics in more detail in later course weekends. There are 15 questions in total. Each correct or thoughtful response (as appropriate) will receive 1 point, and the assignment will be graded on a 13-point scale.
-- For **all other assignments**, please answer all questions. There are 16 questions in total. Each correct or thoughtful response (as appropriate) will receive 1 point, and the assignment will be graded on a 15-point scale.
+- For **Assignment 3** (evaluate [Esteva et al., 2017](https://www.nature.com/articles/nature21056)) and **Assignment 4** (evaluate [Taggart et al., 2018](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706498)), please answer all questions. There are 16 questions in total. Each correct or thoughtful response (as appropriate) will receive 1 point, and the assignment will be graded on a 15-point scale.
 
 ## Questions
 
