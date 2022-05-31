@@ -2,7 +2,7 @@
 
 Deliverable(s) | Due Date
 --- | ---
-Proposal | Friday at 7:59am ET, start of weekend 3
+Proposal | Friday at 7:59am ET, start of weekend 4
 Report & Slides | Friday at 7:59am ET, start of weekend 6
 
 ## Team Assignment: 
