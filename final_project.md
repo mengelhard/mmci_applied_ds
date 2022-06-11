@@ -6,12 +6,13 @@ Proposal | Friday at 7:59am ET, start of weekend 4
 Report & Slides | Friday at 7:59am ET, start of weekend 6
 
 ## Team Assignment: 
-Propose a data science research project related to a clinical topic of your choosing. Your project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will be:
-1. an initial project proposal, which must be approved by the instructor
+Propose a data science research project related to a clinical topic of your choosing. The project you propose should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will be:
+1. an initial pre-proposal, which must be approved by the instructor
 2. a final report, formatted as a brief research proposal/grant; and
-3. a short (15-minute) presentation.
+3. a short (15-minute) presentation summarizing your proposal.
+Note that you do not need to complete the research project that you propose; your deliverable is the proposal itself.
 
-## Proposal (1 page):
+## Pre-proposal (1 page):
 Prepare a brief, informal document with the following elements:
 - a brief description of the clinical problem you would like to address
 - why you believe a data science approach is appropriate
@@ -35,7 +36,7 @@ Describe the steps that would be taken to carry out your project, including the 
 - **Model training and evaluation.** Provide a training and evaluation plan based on (a) cross-validation or (b) a fixed data partition, as appropriate. Justify your choice. If a tuning set is needed, describe how it will be used. List and justify *all* performance metrics and describe how your hypothesis(-es) will be evaluated.
 
 ## Presentation (15 minutes):
-Each group will give a 15-minute presentation followed by 5 minutes of Q&A on the last day of class. The presentation should include approximately 5 minutes of background, a brief description of objectives, and approximately 10 minutes describing the approach, with emphasis on model development and evaluation. 
+Each group will give a 15-minute presentation followed by 5 minutes of Q&A on the last day of class. The presentation should include approximately 5 minutes of background, a brief description of objectives, and approximately 10 minutes describing the approach, with emphasis on model development and evaluation.
 
 ## Grading:
 
