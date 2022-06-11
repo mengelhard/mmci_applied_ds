@@ -31,7 +31,7 @@
 11. What data (or portion of the data), if any, were used to evaluate the model?
 12. Based on performance metrics, please give a brief, practical summary of model performance at a particular operating point (Example: the model can achieve 90% sensitivity at 90% specificity, which would result in an expected 5 false positives and 5 false negatives for each 100 people evaluated at an expected prevalence of 50%).
 13. What measures were used to evaluate performance?
-14. Are there any other performance measures that were not used, but that you think are important to the proposed application (e.g. in a clinical scenario)?
+14. Are there any other performance measures that were not used, but that you think are important to the proposed application (e.g. in a clinical scenario)? If not, which of measure(s) reported by the authors do you believe is/are most important to the proposed application, and why?
 
 ### Model Deployment
 
