@@ -28,7 +28,22 @@ The course will culminate in a final design project in which students will work 
 - PDFs of readings are also available in the Resources folder in Sakai
 
 ## Course Schedule
-Please refer to the [main page](http://www.github.com/mengelhard/mmci_applied_ds).
+The table below lists course topics by session. For details and specific activities, please refer to the [main page](http://www.github.com/mengelhard/mmci_applied_ds).
+
+Session | Topic
+--- | ---
+1 | Intro to predictive models: logistic regression
+2 | Evaluating performance
+3 | The multilayer perceptron
+4 | The model development process
+5 | Medical image analysis
+6 | Model learning
+7 | Natural language processing for clinical text
+8 | Mitigating overfitting
+9 | Working with multi-modal health data
+10 | Understanding model predictions
+11 | Final project presentations
+12 | Final project presentations
 
 ## Class Participation and Attendance Policy
 Class attendance is mandatory. Attendance will be taken at every class. If you miss a class, you need to make up the class session. This can be accomplished by reviewing the recorded class lecture and submitting a page synopsis of the class to the professor within one week. The one page synopsis needs to contain references. If you miss a class without prior approval by faculty, there will be a reduction in your debate/discussion overall grade.
