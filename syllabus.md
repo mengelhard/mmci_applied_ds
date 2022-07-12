@@ -12,7 +12,7 @@ The course will introduce students to healthcare data science methods in the fol
 - Neural network based prediction models, with applications to the electronic health record
 - Convolutional neural networks for medical image analysis
 - Natural language processing for patient notes and other text data
-- Introduction to modeling sequences and clinical time-series
+- Introduction to working with multi-modal health data
 
 By the end of the course, students will understand:
 - the model development process and common pitfalls
