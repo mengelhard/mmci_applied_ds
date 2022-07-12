@@ -32,18 +32,18 @@ The table below lists course topics by session. For details and specific activit
 
 Session | Topic
 --- | ---
-1 | Intro to predictive models: logistic regression
-2 | Evaluating performance
-3 | The multilayer perceptron
-4 | The model development process
-5 | Medical image analysis
-6 | Model learning
-7 | Natural language processing for clinical text
-8 | Mitigating overfitting
-9 | Working with multi-modal health data
-10 | Understanding model predictions
-11 | Final project presentations
-12 | Final project presentations
+1a | Intro to predictive models: logistic regression
+1b | Evaluating performance
+2a | The multilayer perceptron
+2b | The model development process
+3a | Medical image analysis
+3b | Model learning
+4a | Natural language processing for clinical text
+4b | Mitigating overfitting
+5a | Working with multi-modal health data
+5b | Understanding model predictions
+6a | Final project presentations
+6b | Final project presentations
 
 ## Class Participation and Attendance Policy
 Class attendance is mandatory. Attendance will be taken at every class. If you miss a class, you need to make up the class session. This can be accomplished by reviewing the recorded class lecture and submitting a page synopsis of the class to the professor within one week. The one page synopsis needs to contain references. If you miss a class without prior approval by faculty, there will be a reduction in your debate/discussion overall grade.
