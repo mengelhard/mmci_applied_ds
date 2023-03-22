@@ -2,7 +2,9 @@
 *Master of Management in Clinical Informatics (MMCi) Program*
 
 - **Course Director:** Matthew Engelhard
+- Matt's office hours: TBD
 - **Teaching Assistant:** Andrea Burton
+- Andrea's office hours: TBD
 
 ## Course Materials
 
@@ -41,10 +43,6 @@
 - The course will culminate in a design project in which you propose to apply data science methods to a clinical topic of your choosing.
 - Project instructions and grading details are [here](final_project.md).
 - **Proposals are due** before class on weekend 4, and the **project is due** before class on weekend 6.
-
-## Office Hours
-- Matt's office hours: TBD
-- Andrea's office hours: TBD
 
 ## Course Schedule
 
