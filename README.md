@@ -43,7 +43,7 @@
 ### Final Project
 - The course will culminate in a design project in which you propose to apply data science methods to a clinical topic of your choosing.
 - Project instructions and grading details are [here](final_project.md).
-- **Proposals are due** before class on weekend 4, and the **project is due** before class on weekend 6.
+- **Proposals are due** before class on weekend 3, and the **project is due** before class on weekend 6.
 
 ## Course Schedule
 
