@@ -10,6 +10,7 @@
 
 - **[Please review the syllabus by clicking here](syllabus.md)**
 - Materials for each course weekend are linked in the *Schedule* below
+- We recommend you use Google Chrome when browsing this site or working in Google Colab
 
 ### Readings and Quizzes
 - There will be a brief quiz due before each weekend *except* weekend 6.
