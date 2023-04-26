@@ -1,10 +1,7 @@
-## List of Data Science Terms
+# List of Data Science Terms
 *MMCi Applied Data Science*
 
----
-
 ## Weekend 1
-
 During and after weekend 1, please begin to familiarize yourself with the following terms and definitions.
 
 ### Intro to Predictive Models
@@ -21,6 +18,7 @@ During and after weekend 1, please begin to familiarize yourself with the follow
 - **Predictive Model:** A mathematical model (see: **Model**) used to predict the value of an unknown (i.e. dependent) variable based on a set of known (i.e. independent) variables
 - **Predictor:** Also called a feature or indepedent variable, a predictor (often denoted *x*) most often refers to an input to a predictive model
 - **Regression Model:** A predictive model for which the predicted value is numeric
+- **Training:** Another term for the process of **learning** model parameters from data
 - **Weights:** In the content of machine learning, a *weights* are another term for the parameters in a predictive model
 
 ### Logistic Regression
@@ -46,7 +44,8 @@ During and after weekend 1, please begin to familiarize yourself with the follow
 - **Sensitivity:** The proportion of positive cases correctly identified (i.e. predicted) as positive by a prediction model or diagnostic test
 - **Specificity:** The proportion of negative cases correctly identified (i.e. predicted) as negative by a prediction model or diagnostic test
 - **Recall:** Another term for sensitivity
-- **Receiver Operating Characteristic Curve (ROC curve):** A graph showing the relationship between the sensitivity and specificity of a binary classification model across the full range of possible classification thresholds- **True Negative:** A negative case that is correctly believed or predicted (e.g. by a predictive model) to be negative
+- **Receiver Operating Characteristic Curve (ROC curve):** A graph showing the relationship between the sensitivity and specificity of a binary classification model across the full range of possible classification thresholds
+- **True Negative:** A negative case that is correctly believed or predicted (e.g. by a predictive model) to be negative
 - **True Positive:** A positive case that is correctly believed or predicted (e.g. by a predictive model) to be positive
 
 ### Fields and Subfields Related to Data Science
@@ -54,7 +53,7 @@ During and after weekend 1, please begin to familiarize yourself with the follow
 - **Artificial Intelligence:** An interdiscplinary field focused on development of *thinking* machines that process information and make decisions
 - **Deep Learning:** The branch of machine learning concerned with development of *deep* neural networks (i.e. containing many hidden layers)
 - **Machine Learning:** A subfield of artificial intelligence that incorporates elements of statistics, computer science, and other disciplines to develop systems that learn parameters of a statistical model from data to make predictions or decisions
-- **Supervised Learning:** The branch of machine learning that focuses on learning a function that maps inputs to outputs based on example input-output pairs- Training (training similar to learning): Model training in machine language is the process of feeding an ML algorithm with data to help identify and learn good values for all attributes involved.
+- **Supervised Learning:** The branch of machine learning that focuses on learning a function that maps inputs to outputs based on example input-output pairs
 
 ### Other Relevant Terms
 
