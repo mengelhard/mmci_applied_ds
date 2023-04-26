@@ -5,56 +5,63 @@
 
 ## Weekend 1
 
-During and after weekend 1, please work to familiarize yourself with the following terms and definitions.
+During and after weekend 1, please begin to familiarize yourself with the following terms and definitions.
 
-### Key Terms
+### Intro to Predictive Models
 
 - **Algorithm:** A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer
-- **Area under the ROC Curve (AUROC):** A common performance metric for binary classification that can be computed by (a) quantifying the area under the receiver operating characteristic (ROC) curve *or* (equivalently) the sensitivity-specificity curve; or (b) calculating the probability that a randomly selected positive example has a higher predicted probability of being predicted positive than a randomly selected negative example
-- **Average Precision (AP):** Also called the average positive predictive value (PPV), the average precision is an estimate of the area under the precision (i.e. PPV) versus recall (i.e. sensitivity) curve
-- **Binary classification:** A prediction task in which the label y belongs to one of two classes or categories (e.g. positive/negative, yes/no)
-- **Categorical variables:** A variable that can take on one of a limited and usually fixed number of possible values. Common examples in healthcare include sex, race, diagnosis codes, procedure codes, and medications
-- **Classification model:** A predictive model for which the predicted value is a categorical label
-- **Confusion Matrix:** A cross-tabulation of true labels versus model predictions used to summarize the performance of a classification model
-- **Deep Learning:** The branch of machine learning concerned with development of *deep* neural networks (i.e. containing many hidden layers)
+- **Classification Model:** A predictive model for which the predicted value is a categorical label
 - **Dependent variable:** Also called a label and often representing a clinical outcome, a dependent variable (often denoted *y*) is a value that a predictive model is trained to predict
-- **False Negative:** Also called a Type II error, a false negative is a positive case that is incorrectly believed or predicted (e.g. by a predictive model) to be negative
-- **False Positive:** Also called a Type I error, a false positive is a negative case that is incorrectly believed or predicted (e.g. by a predictive model) to be positive
 - **Feature:** Also called a predictor or indepedent variable, a feature (often denoted *x*) most often refers to an input to a predictive model
-- **Generalized Linear Model:** A generalization of linear regression in which a linear model is related to the dependent variable via *link function* such as the logit function.
 - **Independent Variable:** Also called a predictor or feature, an independent variable (often denoted *x*) is an input to a predictive model
 - **Label:** Also called a dependent variable and often representing a clinical outcome, the label (often denoted *y*) is the value that a predictive model is trained to predict
 - **Learning (in machine learning)**: Adjusting the parameters of a predictive model in order to improve model performance
+- **Model:** A mathematical equation defining a possible relationship between variables and typically containing parameters that can be _learned_ from data
+- **Parameters:** Numeric values in a predictive model that define a specific relationship between the indepenedent variables (i.e. features) and dependent variables (i.e. label), and are updated during learning
+- **Predictive Model:** A mathematical model (see: **Model**) used to predict the value of an unknown (i.e. dependent) variable based on a set of known (i.e. independent) variables
+- **Predictor:** Also called a feature or indepedent variable, a predictor (often denoted *x*) most often refers to an input to a predictive model
+- **Regression Model:** A predictive model for which the predicted value is numeric
+- **Weights:** In the content of machine learning, a *weights* are another term for the parameters in a predictive model
+
+### Logistic Regression
+
+- **Generalized Linear Model:** A generalization of linear regression in which a linear model is related to the dependent variable via *link function* such as the logit function.
 - **Logistic Regression:** A generalized linear model commonly used to predict the probability of a binary dependent variable or outcome
 - **Logistic (i.e. sigmoid) function:** An S-shaped function used in logistic regression and elsewhere to convert log-odds values to probabilities. It is the inverse of the logit function.
-- **Machine Learning:** A subfield of artificial intelligence that incorporates elements of statistics, computer science, and other disciplines to develop systems that learn parameters of a statistical model from data to make predictions or decisions
-- **Artificial Intelligence:** An interdiscplinary field focused on development of *thinking* machines that process information and make decisions
-- Model discrimination: The procedure in which the most appropriate model has to be identified from a set of rival models, implying that additional experiments will have to be designed and performed during the model discrimination procedure
-- Model, Algorithm: In the machine learning setting, model and algorithm are frequently used interchangeably to refer to the final ready-to-use machine learning method. These terms refer to the steps taken by the machine to assess input data and make a determination about what is shown in the data.
-- Operating point:
 - **Odds:** The ratio of the probability that an event of interest *will* occur to the probability that it *will not* occur
-- **Ordinal variables:** A variable that is similar to a categorical variable, but the categories are ordered. *Example:* rating scales / Likert scales
-- Parameter: Parameters are the internal values of a machine learning model that are derived based on the training data. For example, the parameters in logistic regression include the weights that are multiplied with each input variable as part of the regression equation. If a logistic-regression model were developed to assess the need for a radiograph to evaluate an ankle trauma case, input features may include the presence of bone tenderness at anatomic sites A and B. The parameter associated with each site would be greater than 0, indicating a higher likelihood that radiographs are needed to rule out fracture. The overall score would be related to multiplying the presence or absence (1 or 0) of tenderness at A and B with their respective parameters. The values of the parameters are learned during a training process to optimize the fit between the available data and the machine learning model outputs.
-- Parameters: A parameter is a number describing a whole population (e.g., population mean)
-- Positive and negative predictive value: In medicine, positive predictive value is the probability that subjects with a positive screening test truly have the disease or condition. Negative predictive value is the probability that subjects with a negative screening test truly don't have the disease or condition.
-- Precision another term for positive predictive value:  How close or dispersed the measurements are to each other.
-- Predictive Model: A mathematical process used to predict future events or outcomes by analyzing patterns in a given set of input data.
-- Outcome variable: outcome variable is an event or metric that can be observed and measured in a valid fashion. 
-- Predictors: Explanatory or independent variables. 
-- Preprocessing: Data preprocessing in Machine Learning refers to the technique of preparing (cleaning and organizing) the raw data to make it suitable for a building and training Machine Learning models.https://www.upgrad.com/blog/data-preprocessing-in-machine-learning/
-- Probability: A mathematical tool used to study randomness. It deals with the chance (the likelihood) of an event occurring.
-- **Recall:** Another term for sensitivity
-- **Receiver Operating Characteristic Curve (ROC curve):** A graph showing the relationship between the sensitivity and specificity of a binary classification model across the full range of possible classification thresholds
-- **Regression model:** A predictive model for which the predicted value is numeric
-- **Sensitivity:** The proportion of positive cases correctly identified (i.e. predicted) as positive by a prediction model or diagnostic test
-- Specificity: The proportion of actual negatives, which got predicted as the negative (or true negative)
-- **Supervised Learning:** The branch of machine learning that focuses on learning a function that maps inputs to outputs based on example input-output pairs- Training (training similar to learning): Model training in machine language is the process of feeding an ML algorithm with data to help identify and learn good values for all attributes involved.
-- **True Negative:** A negative case that is correctly believed or predicted (e.g. by a predictive model) to be negative
-- **True Positive:** A positive case that is correctly believed or predicted (e.g. by a predictive model) to be positive
-- **Vector:** For our purposes a vector is simply an ordered list of numbers, such as a list of input features or parameters in a predictive model
-- **Weights:** In the content of machine learning, a *weight* is another term for a parameter in a predictive model
+- **Probability:** A number between 0 and 1 quantifying a belief about how likely it is that a given event will occur
 
-### Additional Terms
+### Performance Measures
+
+- **Area under the ROC Curve (AUROC):** A common performance metric for binary classification that can be computed by (a) quantifying the area under the receiver operating characteristic (ROC) curve *or* (equivalently) the sensitivity-specificity curve; or (b) calculating the probability that a randomly selected positive example has a higher predicted probability of being predicted positive than a randomly selected negative example
+- **Average Precision (AP):** Also called the average positive predictive value (PPV), the average precision is an estimate of the area under the precision (i.e. PPV) versus recall (i.e. sensitivity) curve
+- **Binary classification:** A prediction task in which the label y belongs to one of two classes or categories (e.g. positive/negative, yes/no)
+- **Confusion Matrix:** A cross-tabulation of true labels versus model predictions used to summarize the performance of a classification model
+- **False Negative:** Also called a Type II error, a false negative is a positive case that is incorrectly believed or predicted (e.g. by a predictive model) to be negative
+- **False Positive:** Also called a Type I error, a false positive is a negative case that is incorrectly believed or predicted (e.g. by a predictive model) to be positive
+- **Negative predictive value:** The probability that an individual predicted to be negative by a predictive model truly is negative for the condition or outcome of interest
+- **Operating Point:** A specific threshold used to convert model-predicted probabilities into binary predictions
+- **Positive predictive value:** The probability that an individual predicted to be positive by a predictive model truly is positive for the condition or outcome of interest
+- **Precision:** Another term for positive predictive value
+- **Sensitivity:** The proportion of positive cases correctly identified (i.e. predicted) as positive by a prediction model or diagnostic test
+- **Specificity:** The proportion of negative cases correctly identified (i.e. predicted) as negative by a prediction model or diagnostic test
+- **Recall:** Another term for sensitivity
+- **Receiver Operating Characteristic Curve (ROC curve):** A graph showing the relationship between the sensitivity and specificity of a binary classification model across the full range of possible classification thresholds- **True Negative:** A negative case that is correctly believed or predicted (e.g. by a predictive model) to be negative
+- **True Positive:** A positive case that is correctly believed or predicted (e.g. by a predictive model) to be positive
+
+### Fields and Subfields Related to Data Science
+
+- **Artificial Intelligence:** An interdiscplinary field focused on development of *thinking* machines that process information and make decisions
+- **Deep Learning:** The branch of machine learning concerned with development of *deep* neural networks (i.e. containing many hidden layers)
+- **Machine Learning:** A subfield of artificial intelligence that incorporates elements of statistics, computer science, and other disciplines to develop systems that learn parameters of a statistical model from data to make predictions or decisions
+- **Supervised Learning:** The branch of machine learning that focuses on learning a function that maps inputs to outputs based on example input-output pairs- Training (training similar to learning): Model training in machine language is the process of feeding an ML algorithm with data to help identify and learn good values for all attributes involved.
+
+### Other Relevant Terms
+
+- **Categorical variable:** A variable that can take on one of a limited and usually fixed number of possible values. Common examples in healthcare include sex, race, diagnosis codes, procedure codes, and medications
+- **Ordinal variables:** A variable that is similar to a categorical variable, but the categories are ordered. *Example:* rating scales / Likert scales
+- **Preprocessing:** Steps taken to clean, organize, filter, or transform raw data to prepare it for another purpose, such as training a predictive model
+- **Vector:** For our purposes a vector is simply an ordered list of numbers, such as a list of input features or parameters in a predictive model
 
 <!-- 
 
