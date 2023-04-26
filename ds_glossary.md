@@ -16,19 +16,20 @@ During and after weekend 1, please work to familiarize yourself with the followi
 - **Categorical variables:** A variable that can take on one of a limited and usually fixed number of possible values. Common examples in healthcare include sex, race, diagnosis codes, procedure codes, and medications
 - **Classification model:** A predictive model for which the predicted value is a categorical label
 - **Confusion Matrix:** A cross-tabulation of true labels versus model predictions used to summarize the performance of a classification model
-- Deep Learning: A machine learning technique that teaches computers to do what comes naturally to humans: learn by example.
-- Dependent variables: A value that depends on changes in the independent variable ( see independent variable below).
-- False Negative: A false negative is a test result which wrongly indicates that a condition does not hold
-- False Positive: A result that indicates a given condition exists when it does not.
-- Feature: Features are the input variables to a machine learning model. For example, when developing a model predicting stroke risk, a feature would be a patient’s height or weight. Features can be processed before they are entered into a model, such as combining height and weight into a body mass index. For an image, a feature may be some component of the image, such as an eye or a nose, when developing a facial recognition machine learning system.
-- Generalized Linear Model: A normal linear regression models with a continuous response variable.
-- Independent Variable: A value that is independent of other variables in your study.
-- Label: The label identifies what a collection of data (the model input) represents. For a stroke model, it would be stroke present or absent. When developing a machine learning system to identify diabetic retinopathy, the label for each fundus image would be present or absent, as determined by experts in interpreting such images.
+- **Deep Learning:** The branch of machine learning concerned with development of *deep* neural networks (i.e. containing many hidden layers)
+- **Dependent variable:** Also called a label and often representing a clinical outcome, a dependent variable (often denoted *y*) is a value that a predictive model is trained to predict
+- **False Negative:** Also called a Type II error, a false negative is a positive case that is incorrectly believed or predicted (e.g. by a predictive model) to be negative
+- **False Positive:** Also called a Type I error, a false positive is a negative case that is incorrectly believed or predicted (e.g. by a predictive model) to be positive
+- **Feature:** Also called a predictor or indepedent variable, a feature (often denoted *x*) most often refers to an input to a predictive model
+- **Generalized Linear Model:** A generalization of linear regression in which a linear model is related to the dependent variable via *link function* such as the logit function.
+- **Independent Variable:** Also called a predictor or feature, an independent variable (often denoted *x*) is an input to a predictive model
+- **Label:** Also called a dependent variable and often representing a clinical outcome, the label (often denoted *y*) is the value that a predictive model is trained to predict
 - **Learning (in machine learning)**: Adjusting the parameters of a predictive model in order to improve model performance
-- Logistic Regression: Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable
-- Logistic (i.e. sigmoid) function: TBD
-- Machine Learning, Artificial Intelligence, Deep Learning: Artificial intelligence is a loosely defined concept describing automated systems that can perform tasks considered to require “intelligence.” Machine learning refers to the process of developing systems with the ability to learn from and make predictions using data. For example, a machine learning model can process an input (such as a retinal fundus photograph) and produce an output (such as the classification of the image showing that proliferative diabetic retinopathy is present). Deep learning is a more specific group of machine learning methods that uses many layers of arithmetic operations.25,40
-- Model discrimination: The procedure in which the most appropriate model has to be identified from a set of rival models, implying that additional experiments will have to be designed and performed during the model discrimination procedure.
+- **Logistic Regression:** A generalized linear model commonly used to predict the probability of a binary dependent variable or outcome
+- **Logistic (i.e. sigmoid) function:** An S-shaped function used in logistic regression and elsewhere to convert log-odds values to probabilities. It is the inverse of the logit function.
+- **Machine Learning:** A subfield of artificial intelligence that incorporates elements of statistics, computer science, and other disciplines to develop systems that learn parameters of a statistical model from data to make predictions or decisions
+- **Artificial Intelligence:** An interdiscplinary field focused on development of *thinking* machines that process information and make decisions
+- Model discrimination: The procedure in which the most appropriate model has to be identified from a set of rival models, implying that additional experiments will have to be designed and performed during the model discrimination procedure
 - Model, Algorithm: In the machine learning setting, model and algorithm are frequently used interchangeably to refer to the final ready-to-use machine learning method. These terms refer to the steps taken by the machine to assess input data and make a determination about what is shown in the data.
 - Operating point:
 - **Odds:** The ratio of the probability that an event of interest *will* occur to the probability that it *will not* occur
@@ -48,14 +49,14 @@ During and after weekend 1, please work to familiarize yourself with the followi
 - **Sensitivity:** The proportion of positive cases correctly identified (i.e. predicted) as positive by a prediction model or diagnostic test
 - Specificity: The proportion of actual negatives, which got predicted as the negative (or true negative)
 - **Supervised Learning:** The branch of machine learning that focuses on learning a function that maps inputs to outputs based on example input-output pairs- Training (training similar to learning): Model training in machine language is the process of feeding an ML algorithm with data to help identify and learn good values for all attributes involved.
-- True Negative: An outcome where the model correctly predicts the negative class.
-- True Positive: an outcome where the model correctly predicts the positive class. 
-- Vector: A vector is a quantity or phenomenon that has two independent properties: magnitude and direction.
-- Weights: Often termed parameters (look it up and add detail): Weight is the parameter within a neural network that transforms input data within the network's hidden layers.
+- **True Negative:** A negative case that is correctly believed or predicted (e.g. by a predictive model) to be negative
+- **True Positive:** A positive case that is correctly believed or predicted (e.g. by a predictive model) to be positive
+- **Vector:** For our purposes a vector is simply an ordered list of numbers, such as a list of input features or parameters in a predictive model
+- **Weights:** In the content of machine learning, a *weight* is another term for a parameter in a predictive model
 
 ### Additional Terms
 
-
+<!-- 
 
 ## Weekend 2 and Beyond
 
@@ -124,5 +125,5 @@ During and after weekend 1, please work to familiarize yourself with the followi
 - Vectorization: process of flattening a matrix of numeric values to a vector
 - Vocabulary (in nlp context): The set of unique words used in the text corpus is referred to as the vocabulary.
 
-
+ -->
 
