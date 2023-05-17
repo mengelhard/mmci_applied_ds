@@ -2,24 +2,23 @@
 
 Deliverable(s) | Due Date
 --- | ---
-Proposal | Friday at 7:59am ET, start of weekend 4
-Report & Slides | Friday at 7:59am ET, start of weekend 6
+Proposal | 8am ET, first day of weekend 3
+Report & Slides | 8am ET, first day of weekend 6
 
 ## Team Assignment: 
-Propose a data science research project related to a clinical topic of your choosing. The project you propose should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will be:
-1. an initial pre-proposal, which must be approved by the instructor
-2. a final report, formatted as a brief research proposal/grant; and
-3. a short (15-minute) presentation summarizing your proposal.
-Note that you do not need to complete the research project that you propose; your deliverable is the proposal itself.
+Your final project will be to develop a data science research project proposal related to a clinical topic of your choosing. Your deliverable can be viewed as a mini-grant proposal, and (importantly) you do not need to _conduct_ the project itself. If you propose to develop a sepsis prediction model, for example, you would need to describe your research strategy in detail, but you do not need to build the model itself. The project should use techniques from at least one of the topics discussed in class (e.g. multilayer perceptron, computer vision, natural language processing, time-series modeling, reinforcement learning). Deliverables will be:
+1. an initial final project proposal, which must be approved by the instructor
+2. a final project report, formatted as a brief research proposal/grant; and
+3. a short (15-minute) project presentation summarizing your proposal.
 
-## Pre-proposal (1 page):
+## Final Project Proposal (1 page):
 Prepare a brief, informal document with the following elements:
 - a brief description of the clinical problem you would like to address
 - why you believe a data science approach is appropriate
 - possible data sources for model development; note that you *can* propose new data collection
 - initial thoughts on which statistical / machine learning approaches are most appropriate
 
-## Report (>3 pages, single-spaced):
+## Final Project Report (>3 pages, single-spaced):
 Prepare a formal document, formatted as a brief research proposal/grant, that includes the following elements:
 
 ### Background and Significance (1 page): 
@@ -35,7 +34,7 @@ Describe the steps that would be taken to carry out your project, including the 
 - **Model development.** Describe your proposed model and outline steps required to develop it. If you will be using or modifying a previously-developed architecture, please cite it. This section should be tangible and detailed. For example, all architecture details and model hyperparameters should be specified. Vague statements like "we will use a CNN" will receive no credit.
 - **Model training and evaluation.** Provide a training and evaluation plan based on (a) cross-validation or (b) a fixed data partition, as appropriate. Justify your choice. If a tuning set is needed, describe how it will be used. List and justify *all* performance metrics and describe how your hypothesis(-es) will be evaluated.
 
-## Presentation (15 minutes):
+## Final Project Presentation (15 minutes):
 Each group will give a 15-minute presentation followed by 5 minutes of Q&A on the last day of class. The presentation should include approximately 5 minutes of background, a brief description of objectives, and approximately 10 minutes describing the approach, with emphasis on model development and evaluation.
 
 ## Grading:
